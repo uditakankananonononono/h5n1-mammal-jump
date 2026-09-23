@@ -1,0 +1,3 @@
+PA: n_mammal=5037 n_avian=17455 groups={'cattle': 4290, 'other_mammal': 366, 'felids': 199, 'pinnipeds': 110, 'human': 50, 'mustelids': 22}
+PA: median identity to ref (same-length sample) = 0.969
+PA: tested=1067 g2_candidates=11

@@ -1,0 +1,16 @@
+protein	position	ref_aa	alt_aa	tier	evidence	url
+PB2	627	E	K	1_validated	technical control; classic mammalian adaptation, experimentally validated in H5N1	https://www.nature.com/articles/ncomms8491
+PA	97	T	I	1_validated	experimentally validated mammalian polymerase-activity marker (H5N1 screen; H6N1 mice)	https://www.nature.com/articles/ncomms8491 ; https://pubmed.ncbi.nlm.nih.gov/25194918/
+PB1	105	N	S	1_validated	experimentally validated in H5N1 mammalian-adaptation screen; virulence in mice	https://www.nature.com/articles/ncomms8491
+PB1-F2	66	N	S	1_validated	increased virulence in mammals (H5N1 HK/97; 1918)	https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.0030141
+PB1	3	D	V	2_literature	reported polymerase-activity/replication enhancer (inventory: Suttie 2019 + 2024 update)	https://www.mcmasterforum.org/docs/default-source/product-documents/rapid-responses/molecular-signatures-of-mammalian-adaptation-of-avian-influenza-viruses.pdf?sfvrsn=af4d22db_1
+PB1	13	L	P	2_literature	reported mammalian-associated, inventory	https://www.mcmasterforum.org/docs/default-source/product-documents/rapid-responses/molecular-signatures-of-mammalian-adaptation-of-avian-influenza-viruses.pdf?sfvrsn=af4d22db_1
+PB1	622	D	G	2_literature	reported polymerase-activity enhancer, inventory	https://www.mcmasterforum.org/docs/default-source/product-documents/rapid-responses/molecular-signatures-of-mammalian-adaptation-of-avian-influenza-viruses.pdf?sfvrsn=af4d22db_1
+PB1	368	I	V	2_literature	reported transmission/polymerase marker, inventory	https://www.mcmasterforum.org/docs/default-source/product-documents/rapid-responses/molecular-signatures-of-mammalian-adaptation-of-avian-influenza-viruses.pdf?sfvrsn=af4d22db_1
+PB1	99	H	Y	2_literature	reported in pH1N1 polymerase signature, inventory	https://www.mcmasterforum.org/docs/default-source/product-documents/rapid-responses/molecular-signatures-of-mammalian-adaptation-of-avian-influenza-viruses.pdf?sfvrsn=af4d22db_1
+PB1	473	L	V	2_literature	reported 2.3.4.4b-era mammalian association, inventory (2024 update)	https://www.mcmasterforum.org/docs/default-source/product-documents/rapid-responses/molecular-signatures-of-mammalian-adaptation-of-avian-influenza-viruses.pdf?sfvrsn=af4d22db_1
+PB1	375	D	N	2_literature	human-signature position (pH1N1 2009 genomic signatures)	https://wwwnc.cdc.gov/eid/article/15/12/09-0845_article
+PA	356	K	R	2_literature	reported mammalian polymerase marker, inventory	https://www.mcmasterforum.org/docs/default-source/product-documents/rapid-responses/molecular-signatures-of-mammalian-adaptation-of-avian-influenza-viruses.pdf?sfvrsn=af4d22db_1
+PA	383	N	D	2_literature	adaptive PA mutation in human replication (Mehle & Doudna 2009 PNAS; inventory)	https://www.pnas.org/doi/10.1073/pnas.0904097106
+PA	224	S	P	2_literature	reported mammalian-associated, inventory	https://www.mcmasterforum.org/docs/default-source/product-documents/rapid-responses/molecular-signatures-of-mammalian-adaptation-of-avian-influenza-viruses.pdf?sfvrsn=af4d22db_1
+PA	36	A	V	2_literature	reported mammalian-associated, inventory	https://www.mcmasterforum.org/docs/default-source/product-documents/rapid-responses/molecular-signatures-of-mammalian-adaptation-of-avian-influenza-viruses.pdf?sfvrsn=af4d22db_1

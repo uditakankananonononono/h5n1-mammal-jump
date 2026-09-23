@@ -1,52 +1,59 @@
 #!/usr/bin/env python3
 """Map candidate residues onto 8R1J (H5N1 polymerase dimer + human ANP32B).
-Reports: resolved?, CA coords, min distance to ANP32B, to PB1 catalytic Asp, to PB2 chain.
-Outputs: structure_map.tsv + 3D figures."""
+Both polymerase copies are checked: copy1 PA=A/PB1=B/PB2=C, copy2 PA=D/PB1=E/PB2=F;
+ANP32B=G. A residue unresolved in copy1 falls back to copy2 and the chain used is
+recorded. Reports min CA-CA distance to ANP32B, PB1 catalytic Asp anchors, PB2 chain.
+Outputs: structure_map.tsv."""
 import sys, csv, warnings
 warnings.filterwarnings('ignore')
 from Bio.PDB import MMCIFParser
 import numpy as np
 
-CHAINS = {'PA': 'A', 'PB1': 'B', 'PB2': 'C', 'ANP32B': 'G'}
+COPY1 = {'PA': 'A', 'PB1': 'B', 'PB2': 'C'}
+COPY2 = {'PA': 'D', 'PB1': 'E', 'PB2': 'F'}
+ANP = 'G'
+ANCHOR_POS = [305, 306, 445, 446, 447]
 
-def load_coords(cif='structures/8R1J.cif'):
-    s = MMCIFParser(QUIET=True).get_structure('x', cif)
-    model = s[0]
-    coords = {}
-    for name, ch in CHAINS.items():
-        chain = model[ch]
-        cmap = {}
-        for res in chain:
-            if res.id[0] != ' ': continue
-            if 'CA' in res:
-                cmap[res.id[1]] = res['CA'].coord
-        coords[name] = cmap
-    return coords
+def chain_ca(model, ch):
+    out = {}
+    for res in model[ch]:
+        if res.id[0] != ' ':
+            continue
+        if 'CA' in res:
+            out[res.id[1]] = res['CA'].coord
+    return out
 
 def min_dist(p, cmap):
-    if not cmap: return np.nan
+    if not cmap:
+        return np.nan
     arr = np.array(list(cmap.values()))
     return float(np.sqrt(((arr - p) ** 2).sum(axis=1)).min())
 
-def main(candidates_tsv, out_tsv):
-    coords = load_coords()
-    # catalytic anchors: find Asp in PB1 motifs (D305 region 300-315, SDD 440-455)
-    pb1 = coords['PB1']
-    anchors = [p for p in [305, 306, 445, 446, 447] if p in pb1]
-    anp = coords['ANP32B']
-    pb2 = coords['PB2']
+def main(candidates_tsv, out_tsv, cif='structures/8R1J.cif'):
+    model = MMCIFParser(QUIET=True).get_structure('x', cif)[0]
+    ca = {c: chain_ca(model, c) for c in 'ABCDEFG'}
+    anp = ca[ANP]
     rows = []
     for r in csv.DictReader(open(candidates_tsv), delimiter='\t'):
         prot, pos = r['protein'], int(r['pos'])
-        ch = 'PA' if prot == 'PA' else 'PB1' if prot == 'PB1' else None
-        if ch is None: continue
-        cmap = coords[ch]
-        if pos in cmap:
-            p = cmap[pos]
+        if prot not in ('PA', 'PB1'):
+            continue
+        hit = None
+        for copy in (COPY1, COPY2):
+            ch = copy[prot]
+            if pos in ca[ch]:
+                hit = (copy, ch)
+                break
+        if hit:
+            copy, ch = hit
+            p = ca[ch][pos]
+            pb1 = ca[copy['PB1']]
+            pb2 = ca[copy['PB2']]
+            anchors = [pb1[a] for a in ANCHOR_POS if a in pb1]
             d_anp = min_dist(p, anp)
-            d_cat = min((np.linalg.norm(p - pb1[a]) for a in anchors), default=np.nan)
+            d_cat = min((np.linalg.norm(p - a) for a in anchors), default=np.nan)
             d_pb2 = min_dist(p, pb2)
-            status = 'resolved'
+            status = f'resolved-8R1J-chain{ch}'
         else:
             d_anp = d_cat = d_pb2 = np.nan
             status = 'UNRESOLVED-thin'
@@ -57,8 +64,9 @@ def main(candidates_tsv, out_tsv):
     keys = list(rows[0].keys()) if rows else []
     with open(out_tsv, 'w', newline='') as f:
         w = csv.DictWriter(f, fieldnames=keys, delimiter='\t')
-        w.writeheader(); w.writerows(rows)
-    print(f'mapped {len(rows)} candidates; unresolved={sum(1 for r in rows if r["struct_status"]!="resolved")}')
+        w.writeheader()
+        w.writerows(rows)
+    print(f'wrote {out_tsv} ({len(rows)} rows)')
 
 if __name__ == '__main__':
     main(sys.argv[1], sys.argv[2])

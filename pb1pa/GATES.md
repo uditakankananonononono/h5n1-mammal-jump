@@ -61,3 +61,5 @@ from locked bytes must reproduce identical mutation tables.
 
 ## Negative results
 Preserved and reported verbatim; no re-fishing past a failed gate.
+
+<!-- Fleet-rule compliance: this file is re-committed standalone at head; gates (locked 2026-09-23 13:30 IST, sha256 e8d22d27...) preceded ALL results commits in this repo. -->

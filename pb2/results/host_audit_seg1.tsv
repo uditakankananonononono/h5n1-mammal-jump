@@ -1,0 +1,727 @@
+host_key	class	n_cds	example_host	example_strain	example_acc
+chicken	avian	2249	chicken	A/chicken/Nigeria/VRD21-102_21VIR2370-424/2021	MW961459
+Canada Goose	avian	1420	Canada Goose	A/Canada Goose/Michigan/22-008506-005/2022	OQ957561
+turkey	avian	1210	turkey	A/Turkey/Minnesota/22-011787-001/2022	OQ957577
+duck	avian	892	duck	A/Duck/Florida/22-006447-001/2022	OQ960921
+Snow Goose	avian	798	Snow Goose	A/Snow Goose/North Dakota/22-009481-008/2022	OQ957569
+Black Vulture	avian	635	Black Vulture	A/Black Vulture/Maryland/22-012407-001/2022	OQ957593
+Red-tailed Hawk	avian	457	Red-tailed Hawk	A/Red-tailed Hawk/Colorado/22-012769-001/2022	OQ962857
+Bald Eagle	avian	403	Bald Eagle	A/Bald Eagle/Alaska/22-013001-001/2022	OQ959073
+Mallard	avian	383	Mallard	A/Mallard/Colorado/22-009476-001/2022	OQ962153
+Mallard Duck	avian	353	Mallard Duck	A/Mallard Duck/PA/25-019408-006-original/2025	PX104437
+American Crow	avian	310	American Crow	A/American Crow/Minnesota/22-009668-001/2022	OQ957665
+Canada goose	avian	294	Canada goose	A/Canada goose/New York/NYCVH-22-6038/2022	OR818642
+Turkey Vulture	avian	286	Turkey Vulture	A/Turkey Vulture/New York/22-011863-001/2022	OQ965185
+Anas sp.	avian	261	Anas sp.	A/duck/Bangladesh/50186/2021	OP023531
+Great Horned Owl	avian	258	Great Horned Owl	A/Great Horned Owl/Colorado/22-011558-001/2022	OQ961233
+Domestic bird	avian	232	Domestic bird	A/Domestic bird/AB/FAV-0273-1-2023/2023	PV301382
+Great horned Owl	avian	177	Great horned Owl	A/Great horned Owl/WA/25G03424-001-original/2025	PX806580
+Great horned owl	avian	176	Great horned owl	A/Great horned owl/CA/22-027710-001-original/2022	PQ710782
+Green-winged Teal	avian	161	Green-winged Teal	A/Green-winged Teal/North Carolina/22-001673-001/2022	OQ961681
+Red-tailed hawk	avian	161	Red-tailed hawk	A/Red-tailed hawk/CA/22-026118-001-original/2022	PQ715630
+Wood Duck	avian	150	Wood Duck	A/Wood Duck/Michigan/22-009361-014/2022	OQ966953
+goose	avian	149	goose	A/goose/Czech Republic/18520-1/2021	OL636399
+Bald eagle	avian	143	Bald eagle	A/Bald eagle/WI/22-014379-001-original/2022	PQ700446
+Snow goose	avian	141	Snow goose	A/Snow goose/AK/22-017364-001-original/2022	PQ717334
+Herring Gull	avian	127	Herring Gull	A/Herring Gull/Michigan/22-011517-004/2022	OQ961817
+Ross's Goose	avian	126	Ross's Goose	A/Ross's Goose/Colorado/22-008935-005/2022	OQ963305
+Blue-winged teal	avian	126	Blue-winged teal	A/Blue-winged teal/CO/22-030620-001-original/2022	PQ705686
+Backyard bird	avian	125	Backyard bird	A/Backyard bird/Alaska/22-013107-001/2022	OQ958065
+Cackling Goose	avian	119	Cackling Goose	A/Cackling Goose/AK/22-039438-003-original/2022	PQ706798
+Anas platyrhynchos	avian	115	Anas platyrhynchos	A/mallard/North Carolina/W22-1114A/2022	OQ694927
+Trumpeter Swan	avian	115	Trumpeter Swan	A/Trumpeter Swan/Michigan/22-009684-001/2022	OQ965129
+Gadwall	avian	112	Gadwall	A/Gadwall/Georgia/22-003669-001/2022	OQ961073
+Peregrine Falcon	avian	110	Peregrine Falcon	A/Peregrine Falcon/Iowa/22-012093-001/2022	OQ962745
+American Wigeon	avian	104	American Wigeon	A/American Wigeon/Alabama/22-004941-003/2022	OQ957841
+Gallus gallus	avian	98	Gallus gallus	A/chicken/Bangladesh/50585/2021	OP023555
+Anas platyrhynchos domesticus	avian	94	Anas platyrhynchos domesticus	A/Domestic duck/Araucania/241914-2/2023	OR125218
+Common Eider	avian	94	Common Eider	A/Common Eider/NB/FAV-0834-1-2022/2022	PV307949
+Northern Gannet	avian	88	Northern Gannet	A/Northern Gannet/ME/22-036180-003-original/2022	PQ714430
+Red-Tailed Hawk	avian	88	Red-Tailed Hawk	A/Red-Tailed Hawk/ON/FAV-0002-1-2022/2022	PV301422
+Gull	avian	77	Gull	A/Gull/Florida/22-007915-006/2022	OQ961761
+Ring-necked Duck	avian	74	Ring-necked Duck	A/Ring-necked Duck/Michigan/22-009361-006/2022	OQ963265
+Western Gull	avian	70	Western Gull	A/western gull/California/24-004708-001/2024	PP752446
+Common Raven	avian	69	Common Raven	A/Common Raven/Connecticut/22-009204-001/2022	OQ960841
+Coragyps atratus	avian	68	Coragyps atratus	A/black vulture/Virginia/W22-499C/2022	OP377345
+Guineafowl	avian	67	Guineafowl	A/Guineafowl/Illinois/22-007382-001/2022	OQ961753
+wild goose	avian	66	wild goose	A/wild goose/Germany-NW/2024AI00581/2024	PQ107002
+wild duck	avian	65	wild duck	A/wild duck/Colombia/Choco/3501/2022	OQ683495
+Muscovy Duck	avian	64	Muscovy Duck	A/Muscovy Duck/Florida/22-010679-002/2022	OQ962585
+Pheasant	avian	62	Pheasant	A/Pheasant/New York/22-008760-010/2022	OQ962769
+Swan	avian	50	Swan	A/Swan/Nebraska/22-008227-001/2022	OQ965121
+northern pintail	avian	50	northern pintail	A/northern pintail/USA/22-034099-001/2022	PP801779
+Domestic Chicken	avian	49	Domestic Chicken	A/Domestic chicken/Ussuriysk/8311/2024	PX955757
+Mute Swan	avian	48	Mute Swan	A/Mute Swan/Michigan/22-011517-011/2022	OQ962649
+Snowy Owl	avian	48	Snowy Owl	A/Snowy Owl/Michigan/22-008506-001/2022	OQ965065
+Northern Pintail	avian	46	Northern Pintail	A/Northern Pintail/North Carolina/22-001330-008/2022	OQ962665
+blue-winged Teal	avian	45	blue-winged Teal	A/blue-winged Teal/ND/25-025427-001-original/2025	PX802329
+Lesser Snow Goose	avian	45	Lesser Snow Goose	A/Lesser Snow Goose/MS/26G00918-002-original/2026	PZ127682
+Lesser Scaup	avian	44	Lesser Scaup	A/Lesser Scaup/Florida/22-004623-002/2022	OQ961937
+Northern Shoveler	avian	44	Northern Shoveler	A/Northern Shoveler/Delaware/22-003933-001/2022	OQ962673
+Cooper's Hawk	avian	43	Cooper's Hawk	A/Cooper's Hawk/Minnesota/22-012668-014/2022	OQ960849
+American white Pelican	avian	43	American white Pelican	A/American white Pelican/CA/22-021273-003-original/2022	PQ701886
+Anser caerulescens	avian	42	Anser caerulescens	A/snow goose/Kansas/W22-199D/2022	OP221292
+American White Pelican	avian	42	American White Pelican	A/American White Pelican/Iowa/22-011101-001/2022	OQ957801
+Sanderling	avian	41	Sanderling	A/Sanderling/Peru/PIU-SER005/2022	OQ550463
+Common Murre	avian	41	Common Murre	A/Common Murre/NL/FAV-0886-3-2022/2022	PV301280
+American wigeon	avian	39	American wigeon	A/American wigeon/South Carolina/AH0195145/2021	OQ789272
+Glaucous Gull	avian	39	Glaucous Gull	A/Glaucous Gull/AK/22-017953-003-original/2022	PQ710462
+tundra swan	avian	39	tundra swan	A/tundra swan/North Carolina/W24-1035/2024	PV267709
+Peregrine falcon	avian	38	Peregrine falcon	A/Peregrine falcon/California/24-005915-001/2024	PP755413
+Eared Grebe	avian	38	Eared Grebe	A/Eared Grebe/AB/FAV-0833-56-2022/2022	PV311997
+American crow	avian	37	American crow	A/American crow/CO/22-042172-002-original/2022	PQ701342
+Hooded Merganser	avian	36	Hooded Merganser	A/Hooded Merganser/Florida/22-007915-003/2022	OQ961873
+Vulture	avian	36	Vulture	A/Vulture/Florida/22-012327-001/2022	OQ966777
+Double-Crested Cormorant	avian	35	Double-Crested Cormorant	A/Double-Crested Cormorant/AB/FAV-0833-50-2022/2022	PV301288
+Hawk	avian	34	Hawk	A/Hawk/Minnesota/22-013128-007/2022	OQ961777
+Red-shouldered Hawk	avian	34	Red-shouldered Hawk	A/Red-shouldered Hawk/Delaware/22-004621-001/2022	OQ962817
+American green-winged teal	avian	34	American green-winged teal	A/American green-winged teal/UT/22-027017-024-original/2022	PQ700854
+Northern pintail	avian	34	Northern pintail	A/Northern pintail/AK/22-028247-007-original/2022	PQ714446
+Black-Billed Magpie	avian	34	Black-Billed Magpie	A/Black-Billed Magpie/AB/FAV-0042-4-2024/2023	PV304181
+Great Black-Backed Gull	avian	34	Great Black-Backed Gull	A/Great Black-Backed Gull/NB/FAV-0110-1-2022/2022	PV312237
+Haliaeetus leucocephalus	avian	32	Haliaeetus leucocephalus	A/bald eagle/Kansas/W22-197/2022	OP221048
+Tundra Swan	avian	32	Tundra Swan	A/Tundra Swan/Michigan/22-008506-009/2022	OQ965153
+avian	avian	32	avian	A/avian/Chile/226615-1/2022	PV570934
+Merganser	avian	30	Merganser	A/Merganser/Minnesota/22-012969-001/2022	OQ957601
+American Black Duck	avian	30	American Black Duck	A/American Black Duck/Connecticut/22-005000-001/2022	OQ957609
+mallard	avian	30	mallard	A/mallard/USA/22-033369-001/2022	PP801753
+Branta canadensis	avian	29	Branta canadensis	A/Canada goose/North Carolina/W22-1055/2022	OQ694909
+Bufflehead	avian	29	Bufflehead	A/Bufflehead/CA/23-000948-002-original/2022	PQ706774
+American green-winged Teal	avian	29	American green-winged Teal	A/American green-winged Teal/OR/25G01564-008-original/2025	PX811352
+Greater white-fronted Goose	avian	29	Greater white-fronted Goose	A/Greater white-fronted Goose/CA/25G04007-001-original/2025	PX858406
+Owl	avian	28	Owl	A/Owl/Texas/22-012996-001/2022	OQ962697
+Wild Goose	avian	27	Wild Goose	A/Wild Goose/OK/25G02530-001-original/2025	PX806676
+Great black-backed gull	avian	27	Great black-backed gull	A/Great black-backed gull/MA/25-021407-023-original/2025	PX807788
+Ring-Billed Gull	avian	26	Ring-Billed Gull	A/Ring-Billed Gull/AB/FAV-0271-1-2023/2023	PV317005
+Pelican	avian	25	Pelican	A/Pelican/Missouri/22-012338-019/2022	OQ962721
+Domestic Goose	avian	25	Domestic Goose	A/Domestic Goose/IL/25G03338-006-original/2025	PX748892
+Double-crested Cormorant	avian	24	Double-crested Cormorant	A/Double-crested Cormorant/FL/22-036552-001-original/2022	PQ709694
+Common Merganser	avian	24	Common Merganser	A/Common Merganser/NL/FAV-0334-1-2022/2022	PV308349
+Pelecanus sp.	avian	23	Pelecanus sp.	A/Pelican/Valparaiso/234040/2023	OR125160
+Barred Owl	avian	22	Barred Owl	A/Barred Owl/Minnesota/22-011871-010/2022	OQ959849
+bald eagle	avian	22	bald eagle	A/bald eagle/USA/22-017950-001/2022	PP801613
+Ross's goose	avian	22	Ross's goose	A/Ross's goose/AR/23-001508-001-original/2023	PQ717006
+Spatula discors	avian	21	Spatula discors	A/blue-winged teal/Minnesota/AV22-690/2022	OQ732963
+Great Blue Heron	avian	21	Great Blue Heron	A/Great Blue Heron/Florida/22-007915-004/2022	OQ961217
+swan	avian	20	swan	A/swan/Texas/23-030412-001-original/2023	PP761830
+Common eider	avian	20	Common eider	A/Common eider/MA/22-019521-001-original/2022	PQ709342
+Great black-backed Gull	avian	20	Great black-backed Gull	A/Great black-backed Gull/MA/22-020416-005-original/2022	PQ710582
+Raven	avian	20	Raven	A/Raven/AK/22-020951-001-original/2022	PQ715382
+Rough-Legged Hawk	avian	20	Rough-Legged Hawk	A/Rough-Legged Hawk/AB/FAV-0505-10-2022/2022	PV317269
+Wild Turkey	avian	19	Wild Turkey	A/Wild Turkey/Montana/22-012657-001/2022	OQ966865
+Rock Pigeon	avian	19	Rock Pigeon	A/Rock Pigeon/CA/24-033967-002-original/2024	PQ843483
+Quail	avian	19	Quail	A/Quail/AB/FAV-1008-4-2022/2022	PV315837
+Ring-Necked Pheasant	avian	19	Ring-Necked Pheasant	A/Ring-Necked Pheasant/NS/FAV-0232-1-2022/2022	PV317109
+Pintail Duck	avian	19	Pintail Duck	A/Pintail Duck/OH/25G03077-001-original/2025	PX808668
+Bird	avian	19	Bird	A/Bird/CA/25G04834-001-original/2025	PX881651
+Sandhill Crane	avian	18	Sandhill Crane	A/Sandhill Crane/North Dakota/22-013131-001/2022	OQ963817
+Crow	avian	18	Crow	A/crow/Illinois/24-004479-001/2024	PP752414
+Gallus gallus domesticus	avian	17	Gallus gallus domesticus	A/chicken/Hyogo/TU4-45,46/2021	LC699149
+snow goose	avian	17	snow goose	A/snow goose/South Dakota/22-038501-001-original/2022	PP761735
+Chroicocephalus ridibundus	avian	17	Chroicocephalus ridibundus	A/Chroicocephalus ridibundus/Zuerich/V0121_PB2/2023	PQ098613
+Caspian tern	avian	16	Caspian tern	A/Caspian tern/Atyrau/9184/2022	OQ804408
+Great Black-backed Gull	avian	16	Great Black-backed Gull	A/Great Black-backed Gull/Germany-SH/2024AI04295/2024	PQ736205
+Coopers Hawk	avian	16	Coopers Hawk	A/Coopers Hawk/AB/FAV-0833-2-2022/2022	PV308941
+Western Grebe	avian	16	Western Grebe	A/Western Grebe/AB/FAV-0833-45-2022/2022	PV321781
+Common Grackle	avian	16	Common Grackle	A/Common Grackle/MA/25-021407-010-original/2025	PX807588
+Bufflehead Duck	avian	16	Bufflehead Duck	A/Bufflehead Duck/MA/25-021407-016-original/2025	PX809565
+Anser rossii	avian	15	Anser rossii	A/Ross's goose/North Dakota/N22-08/2022	OP377573
+Magpie	avian	15	Magpie	A/Magpie/Wyoming/22-011426-010/2022	OQ962129
+Calidris alba	avian	15	Calidris alba	A/Sanderling/Arica y Parinacota/240265/2023	OR125185
+Common Tern	avian	15	Common Tern	A/Common Tern/NB/FAV-0703-1-2022/2022	PV308885
+Brown Pelican	avian	14	Brown Pelican	A/Brown Pelican/Florida/22-007313-001/2022	OQ960409
+Common Loon	avian	14	Common Loon	A/Common Loon/Florida/22-009801-001/2022	OQ960833
+Fish Crow	avian	14	Fish Crow	A/Fish Crow/New York/22-010487-001/2022	OQ961065
+Sula variegata	avian	14	Sula variegata	A/Peruvian booby/Antofagasta/236613/2023	OR910197
+House Sparrow	avian	14	House Sparrow	A/House Sparrow/NM/24-014786-002-original/2024	PQ051159
+Red-breasted Merganser	avian	14	Red-breasted Merganser	A/Red-breasted Merganser/BC/FAV-0899-13-2022/2022	PV316925
+Pelecanus thagus	avian	13	Pelecanus thagus	A/Peruvian pelican/Chile/C61740/2022	OQ352539
+Royal Tern	avian	13	Royal Tern	A/Royal Tern/Florida/22-005590-001/2022	OQ963689
+glaucous gull	avian	13	glaucous gull	A/glaucous gull/USA/22-017953-003/2022	PP801620
+Emu	avian	13	Emu	A/Emu/CA/24-031663-001-original/2024	PQ687060
+American Blue-winged teal	avian	13	American Blue-winged teal	A/American Blue-winged teal/GA/22-038440-002-original-repeat/2022	PQ701214
+Dunlin	avian	13	Dunlin	A/Dunlin/WA/22-039678-002-original/2022	PQ709918
+Barn Owl	avian	13	Barn Owl	A/Barn Owl/BC/FAV-0015-34-2024/2023	PV304069
+Skua	avian	13	Skua	A/Skua/Antarctica/INT-OE5-146/2024	PZ311845
+Common Goldeneye	avian	12	Common Goldeneye	A/Common Goldeneye/Minnesota/22-010028-001/2022	OQ960825
+Meleagris gallopavo	avian	12	Meleagris gallopavo	A/Turkey/Araucania/241892-3/2023	OR125350
+American black Duck	avian	12	American black Duck	A/American black Duck/MA/23-001397-010-original/2022	PQ701318
+Layer Chicken	avian	12	Layer Chicken	A/Layer chicken/AB/FAV-1264-1-2022/2022	PV314189
+whooper swan	avian	12	whooper swan	A/whooper swan/Henan/SM281/2021	PZ599394
+Anser albifrons	avian	11	Anser albifrons	A/white-fronted goose/Iwate/TU16-74/2022	LC718223
+Sterna hirundo	avian	11	Sterna hirundo	A/common tern/Maine/W22-480A/2022	OP377509
+Larus belcheri	avian	11	Larus belcheri	A/Band-tailed gull/Tarapaca/236339/2023	OR910183
+common raven	avian	11	common raven	A/common raven/USA/22-020951-004/2022	PP801652
+Brown Skua	avian	11	Brown Skua	A/Brown Skua/South Georgia and the South Sandwich Islands/45/2023	PQ113974
+California condor	avian	11	California condor	A/California condor/AZ/23-010558-001-original/2023	PQ706950
+domestic goose	avian	11	domestic goose	A/domestic goose/Germany-ST/2024AI04198/2024	PQ736107
+Green-Winged Teal	avian	11	Green-Winged Teal	A/Green-Winged Teal/AB/FAV-0992-3-2022/2022	PV301374
+Black-billed Magpie	avian	11	Black-billed Magpie	A/Black-billed Magpie/AB/FAV-1655-1-2022/2022	PV304509
+American blue-winged Teal	avian	11	American blue-winged Teal	A/American blue-winged Teal/KS/25G01357-014-original/2025	PX806460
+Avian	avian	10	Avian	A/Avian/Nigeria/2-8C/2022	PP760201
+Eared grebe	avian	10	Eared grebe	A/Eared grebe/CA/23-000276-003-original/2022	PQ709958
+Northern shoveler	avian	10	Northern shoveler	A/Northern shoveler/AK/23-003641-007-original/2022	PQ714718
+Swainsons Hawk	avian	10	Swainsons Hawk	A/Swainsons Hawk/MT/23-029229-001-original/2023	PQ718582
+Greylag Goose	avian	10	Greylag Goose	A/Greylag Goose/Germany-BY/2024AI04219/2024	PQ736115
+Guinea Fowl	avian	10	Guinea Fowl	A/Guinea Fowl/MN/24-033969-002-original/2024	PQ843443
+Common Crane	avian	10	Common Crane	A/Common Crane/Germany-BB/2025AI04308/2025	PX662217
+Domestic Turkey	avian	10	Domestic Turkey	A/Domestic Turkey/MI/25G03272-002-original/2025	PX748132
+Peafowl	avian	9	Peafowl	A/Peafowl/OR/24-031478-001-original/2024	PQ576372
+Barred owl	avian	9	Barred owl	A/Barred owl/MN/22-013261-002-original/2022	PQ703638
+Bonaparte's Gull	avian	9	Bonaparte's Gull	A/Bonaparte's Gull/CA/22-039721-006-original-3/2022	PQ706694
+Common tern	avian	9	Common tern	A/Common tern/ME/22-020416-017-original/2022	PQ709518
+Blue-Winged Teal	avian	9	Blue-Winged Teal	A/Blue-Winged Teal/AB/FAV-1258-18-2022/2022	PV301105
+Blue Jay	avian	9	Blue Jay	A/Blue Jay/AB/FAV-0411-3-2023/2023	PV304597
+Domestic Grower/Meat-type Turkey	avian	9	Domestic Grower/Meat-type Turkey	A/Domestic Grower/Meat-type Turkey/ND/25-024186-001-original/2025	PX579519
+Black Crow	avian	9	Black Crow	A/Black Crow/Komsomolsk-na-Amure/9578/2025	PX955685
+Cairina moschata	avian	8	Cairina moschata	A/muscovy duck/Florida/W22-316/2022	OP377403
+Thalasseus maximus	avian	8	Thalasseus maximus	A/royal tern/Florida/W22-245B/2022	OP377419
+Aythya affinis	avian	8	Aythya affinis	A/lesser scaup/Georgia/W22-145C/2022	OP470723
+Buteo jamaicensis	avian	8	Buteo jamaicensis	A/red-tailed hawk/Kansas/W22-198/2022	OP499873
+Backyard chicken	avian	8	Backyard chicken	A/Backyard chicken/Uruguay/040-M5/2023	OR381599
+Cygnus olor	avian	8	Cygnus olor	A/Cygnus olor/Zuerich/V0263/2023	PQ098692
+Black-Legged Kittiwake	avian	8	Black-Legged Kittiwake	A/Black-Legged Kittiwake/NL/FAV-0887-3-2022/2022	PV301097
+California Gull	avian	8	California Gull	A/California Gull/AB/FAV-0896-4-2022/2022	PV304989
+Horned Grebe	avian	8	Horned Grebe	A/Horned Grebe/ON/FAV-0117-2-2024/2024	PV314165
+Razorbill	avian	8	Razorbill	A/Razorbill/NL/FAV-0861-4-2022/2022	PV315877
+Somateria mollissima	avian	7	Somateria mollissima	A/common eiders/Maine/W22-481B/2022	OP377533
+Redhead	avian	7	Redhead	A/Redhead/Michigan/22-009361-003/2022	OQ963209
+Sharp-shinned Hawk	avian	7	Sharp-shinned Hawk	A/Sharp-shinned Hawk/Missouri/22-012338-002/2022	OQ963825
+Chicken; Gallus gallus domesticus	avian	7	Chicken; Gallus gallus domesticus	A/chicken/OH/OH22-20542-1/2022	OR136553
+Northern_Pintail	avian	7	Northern_Pintail	A/Northern_Pintail/USA/IZ22_0073_swab/2022	OR267231
+Chenonetta jubata	avian	7	Chenonetta jubata	A/wood duck/Georgia/W24-007A/2023	PP576899
+green-winged teal	avian	7	green-winged teal	A/green-winged teal/USA/22-031399-019/2022	PP802515
+Podiceps auritus	avian	7	Podiceps auritus	A/horned grebe/Virginia/W24-248C/2024	PQ367303
+Sandhill crane	avian	7	Sandhill crane	A/Sandhill crane/PA/22-026148-001-original/2022	PQ700726
+Red-shouldered hawk	avian	7	Red-shouldered hawk	A/Red-shouldered hawk/CA/22-034322-003-original-repeat/2022	PQ715574
+Ring-billed gull	avian	7	Ring-billed gull	A/Ring-billed gull/CO/22-030941-001-original/2022	PQ716910
+Snowy owl	avian	7	Snowy owl	A/Snowy owl/AK/22-022807-001-original/2022	PQ718470
+Swainson's Hawk	avian	7	Swainson's Hawk	A/Swainson's Hawk/CO/23-004704-001-original/2023	PQ718542
+Barnacle Goose	avian	7	Barnacle Goose	A/Barnacle Goose/Germany-NI/2024AI05042/2024	PV187772
+Muscovy duck	avian	7	Muscovy duck	A/Muscovy duck/Texas/GCAI005C/2025	PX995912
+Chinese Goose	avian	7	Chinese Goose	A/Chinese Goose/PA/26G01183-005-original/2026	PZ127578
+Coscoroba coscoroba	avian	7	Coscoroba coscoroba	A/Coscoroba coscoroba/Canelones/28/2026	PZ294973
+brown-headed gull	avian	7	brown-headed gull	A/brown-headed gull/Qinghai/Q10/2022	PZ598202
+Branta hutchinsii	avian	7	Branta hutchinsii	A/Cackling Goose/North Dakota/2740/2026	PZ803366
+pelican	avian	6	pelican	A/pelican/Tumen/1032-1/2021	OP597627
+Leucophaeus modestus	avian	6	Leucophaeus modestus	A/gray gull/Chile/C61947/2022	OQ352553
+Mule-duck	avian	6	Mule-duck	A/Mule-duck/France/21343/2021	OQ632836
+Lesser Snow Goose White-morph	avian	6	Lesser Snow Goose White-morph	A/Lesser Snow Goose White-morph/Iowa/22-007679-001/2022	OQ962081
+Ring-necked Pheasant	avian	6	Ring-necked Pheasant	A/Ring-necked Pheasant/New York/22-013005-001/2022	OQ963297
+Leucocarbo bougainvillii	avian	6	Leucocarbo bougainvillii	A/guanay cormorant/Tarapaca/236301/2023	OR960990
+Larosterna inca	avian	6	Larosterna inca	A/Inca tern/Antofagasta/238083/2023	PP757810
+Aix sponsa	avian	6	Aix sponsa	A/wood duck/South Carolina/W23-970B/2023	PP761523
+cackling goose	avian	6	cackling goose	A/cackling goose/USA/IZ22_0116/2022	PP802251
+Kelp Gull	avian	6	Kelp Gull	A/Kelp Gull/South Georgia and the South Sandwich Islands/29/2023	PQ113958
+Stercorarius maccormicki	avian	6	Stercorarius maccormicki	A/South polar skua/Antarctica/INACH-UC-UCHILE-SKU3/2024	PQ304423
+Grey Heron	avian	6	Grey Heron	A/Grey Heron/Germany-ST/2025AI01274/2025	PV242367
+Broiler Breeders Chicken	avian	6	Broiler Breeders Chicken	A/Broiler Breeders chicken/BC/FAV-1533-1-2022/2022	PV304733
+Stercorarius antarcticus	avian	6	Stercorarius antarcticus	A/brown skua/Antartic/A329B/2025	PX373541
+American Widgeon	avian	6	American Widgeon	A/American Widgeon/WA/25G03095-006-original/2025	PX806556
+redhead duck	avian	6	redhead duck	A/redhead duck/IL/24-035153-013-original/2024	PZ829524
+Larus hyperboreus	avian	6	Larus hyperboreus	A/glaucous gull/Alaska/STR149CL/2024	PZ955903
+Anas crecca	avian	5	Anas crecca	A/teal/Miyazaki/211109-32/2021	LC705171
+Corvus macrorhynchos	avian	5	Corvus macrorhynchos	A/jungle crow/Iwate/0303I003/2022	LC718231
+Cormorant	avian	5	Cormorant	A/Cormorant/Namibia/141/2022	OP776799
+Larus dominicanus	avian	5	Larus dominicanus	A/Kelp gull/Maule/239349/2023	OR125178
+Thalasseus acuflavidus	avian	5	Thalasseus acuflavidus	A/Thalasseus acuflavidus/EspiritoSanto/1339_N2/2023	OR269884
+Anser indicus	avian	5	Anser indicus	A/Anser indicus/China/ZT-BTY1/2021	PP032037
+Western Sandpiper	avian	5	Western Sandpiper	A/western sandpiper/Washington/24-004707-001/2023	PP752454
+Grackle	avian	5	Grackle	A/grackle/Texas/24-008765-002/2024	PP752639
+black brant	avian	5	black brant	A/black brant/USA/22-017363-001/2022	PP801605
+gadwall	avian	5	gadwall	A/gadwall/USA/IZ22_0441/2022	PP802419
+Cygnus atratus	avian	5	Cygnus atratus	A/Cygnus atratus/Truellikon/V0085_PB2/2023	PQ098772
+Black brant	avian	5	Black brant	A/Black brant/AK/22-017953-001-original/2022	PQ705606
+Brant	avian	5	Brant	A/Brant/AK/22-017363-001-original/2022	PQ706702
+Cinnamon Teal	avian	5	Cinnamon Teal	A/Cinnamon Teal/UT/22-026962-004-original/2022	PQ709326
+Green winged teal	avian	5	Green winged teal	A/Green winged teal/CO/23-029294-001-original/2023	PQ712198
+Osprey	avian	5	Osprey	A/Osprey/FL/23-002762-003-original/2022	PQ714798
+gull	avian	5	gull	A/gull/Germany-HH/2024AI05044/2024	PV187780
+Flamingo	avian	5	Flamingo	A/Flamingo/IL/25-001100-001-original/2025	PV218302
+Northern Fulmar	avian	5	Northern Fulmar	A/Northern Fulmar/NS/FAV-0245-8-2024/2024	PV301406
+Atlantic Puffin	avian	5	Atlantic Puffin	A/Atlantic Puffin/NL/FAV-0876-3-2022/2022	PV303485
+Gadwall Duck	avian	5	Gadwall Duck	A/Gadwall Duck/AB/FAV-0293-3-2023/2023	PV312157
+Golden Eagle	avian	5	Golden Eagle	A/Golden Eagle/AB/FAV-0408-5-2023/2023	PV312221
+Surf Scoter	avian	5	Surf Scoter	A/Surf Scoter/QC/FAV-0855-9-2022/2022	PV319405
+Bean goose	avian	5	Bean goose	A/Bean goose/Germany-MV/2025AI06114/2025	PX662185
+European Starling	avian	5	European Starling	A/European Starling/NV/25-005390-002-original/2025	PX818721
+Greater Scaup	avian	5	Greater Scaup	A/Greater Scaup/VA/25G04885-001-original/2025	PX881939
+Black Scoter	avian	5	Black Scoter	A/Black Scoter/FL/24-001196-001-original/2023	PZ827924
+Sterna dougallii	avian	5	Sterna dougallii	A/Sterna dougallii/Boke/13/2023	PZ950526
+Ruddy Duck	avian	5	Ruddy Duck	A/Ruddy Duck/FL/25-003930-001-original/2024	QB028424
+Larus sp.	avian	4	Larus sp.	A/gull/Florida/W22-162/2022	OP377427
+Pelecanus occidentalis	avian	4	Pelecanus occidentalis	A/brown pelican/North Carolina/W22-164/2022	OP377613
+Anas carolinensis	avian	4	Anas carolinensis	A/American green-winged teal/Texas/UGAI22-3462/2022	OQ734901
+Accipiter cooperii	avian	4	Accipiter cooperii	A/Cooper's hawk/Kansas/W22-1206/2022	OQ734909
+Eagle	avian	4	Eagle	A/Eagle/Missouri/22-012338-007/2022	OQ961057
+Ring-billed Gull	avian	4	Ring-billed Gull	A/Ring-billed Gull/Florida/22-007915-012/2022	OQ963257
+Spheniscus humboldti	avian	4	Spheniscus humboldti	A/Humboldt penguin/Coquimbo/239590/2023	OR125167
+Aythya americana	avian	4	Aythya americana	A/redhead duck/Minnesota/UGAI22-4017/2022	OR420948
+Mareca strepera	avian	4	Mareca strepera	A/gadwall duck/Tennessee/TN22-297/2022	OR421068
+Spatula querquedula	avian	4	Spatula querquedula	A/garganey/Egypt/DT20900OP/2022	OR783341
+Anser anser	avian	4	Anser anser	A/goose/Araucania/244373-1 /2023	OR910343
+seabird	avian	4	seabird	A/seabird/Uruguay/P16_14923/2023	OR912255
+Leucophaeus pipixcan	avian	4	Leucophaeus pipixcan	A/Franklin's gull/Maule/234329-1/2023	OR961093
+Pigeon	avian	4	Pigeon	A/pigeon/Texas/24-008765-001/2024	PP752647
+common murre	avian	4	common murre	A/common murre/Alaska/23-027066-002/2023	PP930340
+Common loon	avian	4	Common loon	A/Common loon/NY/22-030585-001-original/2022	PQ700918
+Broad-winged Hawk	avian	4	Broad-winged Hawk	A/Broad-winged Hawk/MN/22-014336-009-original/2022	PQ706718
+Great blue heron	avian	4	Great blue heron	A/Great blue heron/FL/23-002762-001-original/2022	PQ710742
+Mottled Duck	avian	4	Mottled Duck	A/Mottled Duck/SC/22-042180-002-original/2022	PQ714222
+Harris's Hawk	avian	4	Harris's Hawk	A/Harris's Hawk/UT/24-004080-001-original-repeat2/2024	PQ827770
+Glaucous-winged Gull	avian	4	Glaucous-winged Gull	A/Glaucous-winged Gull/BC/FAV-0015-12-2024/2023	PV312189
+Turkey vulture	avian	4	Turkey vulture	A/Turkey vulture/QC/FAV-0264-2-2022/2022	PV320317
+Chukar	avian	4	Chukar	A/Chukar/PA/25-006346-010-original/2025	PV571974
+Common Buzzard	avian	4	Common Buzzard	A/Common Buzzard/Germany-TH/2025AI02374/2025	PV738375
+Great White Pelican	avian	4	Great White Pelican	A/Great White Pelican/Germany-BW/2022AI01298/2022	PX528888
+Hawaiian Goose	avian	4	Hawaiian Goose	A/Hawaiian Goose/Germany-BW/2022AI00994/2022	PX528944
+Gadwell	avian	4	Gadwell	A/Gadwell/NV/25G01828-004-original/2025	PX806524
+Caspian Tern	avian	4	Caspian Tern	A/Caspian Tern/NY/25-019019-003-original/2025	PX807508
+Northern Harrier	avian	4	Northern Harrier	A/Northern Harrier/MA/25-007118-016-original/2025	PX825315
+Canvasback Duck	avian	4	Canvasback Duck	A/Canvasback Duck/IL/25G04631-002-original/2025	PX858766
+bean goose	avian	4	bean goose	A/bean goose/Anhui/AQ1/2023	PZ598098
+Great Crested Grebe	avian	4	Great Crested Grebe	A/Great Crested Grebe/Germany-BW/2026AI00811/2026	PZ783158
+Uria aalge	avian	4	Uria aalge	A/common murre/Alaska/STR147OP/2024	PZ955896
+Cygnus cygnus	avian	3	Cygnus cygnus	A/whooper swan/Iwate/0302I001T/2022	LC718215
+Dromaius novaehollandiae	avian	3	Dromaius novaehollandiae	A/emu/Hokkaido/TU21-1,2/2022	LC718335
+Corvus spp.	avian	3	Corvus spp.	A/crow/Fukuoka/TU48-37/2022	LC765290
+Bubo virginianus	avian	3	Bubo virginianus	A/great horned owl/Flordia/W22-163A/2022	OP377517
+common teal	avian	3	common teal	A/common teal/Chelyabinsk/1379-1/2021	OP597611
+Quiscalus mexicanus	avian	3	Quiscalus mexicanus	A/great-tailed grackle/Kansas/W22-1223C/2022	OQ734917
+Larus argentatus	avian	3	Larus argentatus	A/herring gull/North Carolina/W1215B/2022	OQ734944
+Blue-winged Teal	avian	3	Blue-winged Teal	A/Blue-winged Teal/Florida/22-002578-009/2022	OQ960385
+Greater White-fronted Goose	avian	3	Greater White-fronted Goose	A/Greater White-fronted Goose/Minnesota/22-011228-001/2022	OQ961673
+Heron	avian	3	Heron	A/Heron/Montana/22-012936-012/2022	OQ961809
+Mergus	avian	3	Mergus	A/Mergus/Minnesota/22-011224-001/2022	OQ962561
+Cathartes aura	avian	3	Cathartes aura	A/Turkey vulture/Antofagasta/228252-1/2022	OR125223
+Mareca americana	avian	3	Mareca americana	A/American wigeon/Tennessee/TN22-301/2022	OR421037
+Cygnus melancoryphus	avian	3	Cygnus melancoryphus	A/black-necked swan/Los Rios/247292-1/2023	OR910440
+Podiceps major	avian	3	Podiceps major	A/great grabe/Nuble/244226-1/2023	OR910486
+South American tern	avian	3	South American tern	A/South American tern/Argentina/RN-PB015/2023	OR987121
+mute swan	avian	3	mute swan	A/mute swan/Mangystau/1-S24R-2/2024	PP267962
+Royal tern	avian	3	Royal tern	A/royal tern/Argentina/CH-PD036/2023	PP488334
+Procellaria aequinoctialis	avian	3	Procellaria aequinoctialis	A/Procellaria aequinoctialis/SaoSebastiaoBR/2259-N/2023	PP768247
+Sabine's gull	avian	3	Sabine's gull	A/Sabine's gull/USA/22-017953-005/2022	PP802035
+domestic turkey	avian	3	domestic turkey	A/domestic turkey/USA/22-032677-001/2022	PP802387
+Falco peregrinus	avian	3	Falco peregrinus	A/Falco peregrinus/Zuerich/T0040_PB2/2023	PQ098604
+Larus michahellis	avian	3	Larus michahellis	A/Larus michahellis/Luzern/V0052_PB2/2023	PQ098764
+Glaucous-winged gull	avian	3	Glaucous-winged gull	A/Glaucous-winged gull/Washington/W231990001-1/2023	PQ118406
+American Robin	avian	3	American Robin	A/American Robin/IA/24-018879-003-original/2024	PQ197131
+Barn owl	avian	3	Barn owl	A/Barn owl/WA/22-041081-001-original/2022	PQ703630
+Black Swan	avian	3	Black Swan	A/Black Swan/CA/22-032922-001-original/2022	PQ703710
+Gannet	avian	3	Gannet	A/Gannet/FL/23-002762-022-original/2022	PQ710446
+Horned grebe	avian	3	Horned grebe	A/Horned grebe/CA/22-037519-002-original/2022	PQ712838
+Sparrow	avian	3	Sparrow	A/Sparrow/NE/22-033885-001-original/2022	PQ718534
+Teal	avian	3	Teal	A/Teal/MN/22-029901-002-original-repeat/2022	PQ718702
+Willet	avian	3	Willet	A/Willet/CA/23-004364-001-original/2023	PQ719574
+black scoter	avian	3	black scoter	A/black scoter/FL/23-002762-020-original/2022	PQ719878
+common goldeneye	avian	3	common goldeneye	A/common goldeneye/MA/23-001397-020-original/2022	PQ719918
+great-tailed grackle	avian	3	great-tailed grackle	A/great-tailed grackle/KS/22-041130-004-original/2022	PQ720238
+lesser scaup	avian	3	lesser scaup	A/lesser scaup/FL/22-040230-004-original/2022	PQ720270
+Eurasian Goshawk	avian	3	Eurasian Goshawk	A/Eurasian Goshawk/Germany-BY/2024AI04848/2024	PQ736181
+White Stork	avian	3	White Stork	A/White Stork/Germany-MV/2024AI04155/2024	PQ736229
+Great Egret	avian	3	Great Egret	A/Great Egret/Germany-BY/2024AI05041/2024	PV187928
+ring-necked duck	avian	3	ring-necked duck	A/ring-necked duck/Tennessee/148/2024	PV267581
+wood duck	avian	3	wood duck	A/wood duck/Florida/W24-974B/2024	PV267717
+American Goshawk	avian	3	American Goshawk	A/American Goshawk/AB/FAV-0115-1-2024/2024	PV303253
+Merlin	avian	3	Merlin	A/Merlin/BC/OTH-0049-36-2024/2024	PV314701
+Northwestern Crow	avian	3	Northwestern Crow	A/Northwestern Crow/BC/FAV-0669-3-2022/2022	PV315485
+peacock	avian	3	peacock	A/Peacock/AB/FAV-0067-1-2024/2024	PV315509
+Anser fabalis	avian	3	Anser fabalis	A/Anser fabalis/jiujiang/H5N1/2024	PV696994
+Black-headed Gull	avian	3	Black-headed Gull	A/Black-headed Gull/Germany-BW/2025AI02687/2025	PV738359
+Mallard X American Black Duck Hybrid	avian	3	Mallard X American Black Duck Hybrid	A/Mallard X American Black Duck Hybrid/ME/25-006140-001-original/2025	PX802313
+Sand Crane	avian	3	Sand Crane	A/Sand Crane/WI/25-012104-001-original/2025	PX808836
+Black-necked stilt	avian	3	Black-necked stilt	A/Black-necked stilt/CA/25G06772-003-original/2025	PZ030667
+Hooded Merganser Duck	avian	3	Hooded Merganser Duck	A/Hooded Merganser Duck/NY/26G00610-001-original/2026	PZ093716
+Black Skimmer	avian	3	Black Skimmer	A/Black Skimmer/FL/26G00575-004-original/2025	PZ093884
+Black vulture	avian	3	Black vulture	A/Black vulture/Maryland/25HP00307/2025	PZ239618
+Brant Goose	avian	3	Brant Goose	A/Brant Goose/AK/26G04803-001-original/2026	PZ423759
+Rissa tridactyla	avian	3	Rissa tridactyla	A/black-legged kittiwake /Alaska/STR-001-25_BR/2025	PZ955922
+Pelecanus erythrorhynchos	avian	2	Pelecanus erythrorhynchos	A/American pelican/Kansas/W22-200/2022	OP221349
+Rynchops niger	avian	2	Rynchops niger	A/black skimmer/Chile/C61962/2022	OQ352545
+Guanay cormorant	avian	2	Guanay cormorant	A/Guanay cormorant/Peru/PIU-SER024/2022	OQ550423
+Peruvian_pelican	avian	2	Peruvian_pelican	A/Peruvian_pelican/Peru/A074/2022	OQ747863
+Belcher's_gull	avian	2	Belcher's_gull	A/Belcher's_gull/Peru/A102/2022	OQ747864
+Black Swift	avian	2	Black Swift	A/Black Swift/Michigan/22-007412-002/2022	OQ959865
+Graylag Goose	avian	2	Graylag Goose	A/Graylag Goose/Illinois/22-008377-002/2022	OQ961201
+Lesser Snow Goose Blue-morph	avian	2	Lesser Snow Goose Blue-morph	A/Lesser Snow Goose Blue-morph/Iowa/22-007679-006/2022	OQ962065
+Poultry	avian	2	Poultry	A/Poultry/Kansas/22-007391-001/2022	OQ962809
+Ardea alba	avian	2	Ardea alba	A/Great egret/Araucania/240518/2023	OR125206
+Mute swan	avian	2	Mute swan	A/Mute swan/Mangystau/9421/2022	OR349640
+Black-necked swan	avian	2	Black-necked swan	A/Black-necked swan/Uruguay/014-M3/2023	OR381591
+Numida meleagris	avian	2	Numida meleagris	A/Numida meleagris/Maracaja/1843-N3/2023	OR881250
+parasitic jaeger	avian	2	parasitic jaeger	A/parasitic jaeger/USA/22-023557-001/2022	PP801675
+Arctic tern	avian	2	Arctic tern	A/Arctic tern/USA/22-020952-002/2022	PP802003
+Corvus brachyrhynchos	avian	2	Corvus brachyrhynchos	A/American crow/Virginia/W24-190M/2024	PP834372
+Corvus corax	avian	2	Corvus corax	A/Corvus corax/Komsomolsk-na-Amure/3413_PB2/2022	PP998408
+Buteo buteo	avian	2	Buteo buteo	A/Buteo buteo/Zuerich/V0119_PB2/2023	PQ098605
+Southern Fulmar	avian	2	Southern Fulmar	A/Southern Fulmar/South Georgia and the South Sandwich Islands/1/2023	PQ113930
+American wood stork	avian	2	American wood stork	A/American wood stork/FL/22-018930-001-original/2022	PQ702494
+Black-Crowned night heron	avian	2	Black-Crowned night heron	A/Black-Crowned night heron/CA/22-032919-004-original/2022	PQ705654
+Neotropic Cormorant	avian	2	Neotropic Cormorant	A/Neotropic Cormorant/AZ/22-017063-001-original/2022	PQ714414
+Parasitic jaeger	avian	2	Parasitic jaeger	A/Parasitic jaeger/AK/22-020952-001-original/2022	PQ714934
+Raptor	avian	2	Raptor	A/Raptor/TX/22-033108-001-original/2022	PQ715374
+Redhead Duck	avian	2	Redhead Duck	A/Redhead Duck/CO/23-029854-022-original/2023	PQ716902
+Ring-necked duck	avian	2	Ring-necked duck	A/Ring-necked duck/KS/23-030994-012-original-repeat/2023	PQ716966
+Ring-necked pheasant	avian	2	Ring-necked pheasant	A/Ring-necked pheasant/NY/22-013871-001-original/2022	PQ716982
+Rosss Goose	avian	2	Rosss Goose	A/Rosss Goose/AR/22-040467-009-original-repeat/2022	PQ717150
+Rough-legged Hawk	avian	2	Rough-legged Hawk	A/Rough-legged Hawk/OR/22-037715-001-original/2022	PQ717166
+Wild bird	avian	2	Wild bird	A/Wild bird/MS/23-002624-001-original/2023	PQ719566
+black skimmer	avian	2	black skimmer	A/black skimmer/FL/22-036966-001-original/2022	PQ719902
+pintail	avian	2	pintail	A/pintail/CO/23-030893-007-original/2023	PQ720302
+White-faced Ibis	avian	2	White-faced Ibis	A/White-faced Ibis/CA/24-031704-004-original/2024	PV160124
+Eurasian Wigeon	avian	2	Eurasian Wigeon	A/Eurasian Wigeon/Germany-SH/2024AI05027/2024	PV187764
+Indian Peafowl	avian	2	Indian Peafowl	A/Indian Peafowl/Germany-BY/2024AI05162/2024	PV187936
+Crane	avian	2	Crane	A/Crane/VA/25-001494-001-original/2025	PV218278
+king_penguin	avian	2	king_penguin	A/king_penguin/Crozet/24P021412/2024	PV295128
+Arctic Tern	avian	2	Arctic Tern	A/Arctic Tern/NB/FAV-0841-3-2022/2022	PV303469
+Franklins Gull	avian	2	Franklins Gull	A/Franklins Gull/AB/FAV-0505-51-2022/2022	PV312141
+Egyptian Goose	avian	2	Egyptian Goose	A/Egyptian Goose/Germany-HE/2025AI02194/2025	PV738383
+Partridge	avian	2	Partridge	A/Partridge/NY/25-013275-009-original/2025	PV792058
+Eurasian Curlew	avian	2	Eurasian Curlew	A/Eurasian Curlew/Germany-RP/2025AI05176/2025	PX662289
+Great Cormorant	avian	2	Great Cormorant	A/Great Cormorant/Germany-TH/2025AI04405/2025	PX662321
+Eurasian Eagle-Owl	avian	2	Eurasian Eagle-Owl	A/Eurasian Eagle-Owl/Germany-BY/2025AI03448/2025	PX671749
+Red-breasted Goose	avian	2	Red-breasted Goose	A/Red-breasted Goose/TN/25G03365-001-original/2025	PX749428
+Long-eared Owl	avian	2	Long-eared Owl	A/Long-eared Owl/MA/25-019390-008-original/2025	PX812720
+Bluejay	avian	2	Bluejay	A/Bluejay/MA/25-019390-027-original/2025	PX815198
+Rock Dove	avian	2	Rock Dove	A/Rock Dove/AZ/25-017482-003-original-repeat/2025	PX883211
+Yellow-headed Caracara	avian	2	Yellow-headed Caracara	A/Yellow-headed Caracara/Texas/GCAI0018C/2025	PX995951
+Duck hybrid	avian	2	Duck hybrid	A/Duck hybrid/Texas/GCAI0026C/2025	PX995969
+Embden Goose	avian	2	Embden Goose	A/Embden Goose/IA/26G00002-001-original/2025	PZ009151
+Chukar Partridge	avian	2	Chukar Partridge	A/Chukar Partridge/NY/25G06397-008-original/2025	PZ009863
+White-winged Scoter	avian	2	White-winged Scoter	A/White-winged Scoter/Massachusetts/24HP00245/2024	PZ239772
+wild turkey	avian	2	wild turkey	A/wild turkey/Massachusetts/25NE00158/2025	PZ239801
+Common Rhea	avian	2	Common Rhea	A/Common Rhea/NJ/26G05396-001-original/2026	PZ423695
+Bar-headed Goose	avian	2	Bar-headed Goose	A/Bar-headed Goose/Tibet/XZ1131/2021	PZ597682
+bar-headed goose	avian	2	bar-headed goose	A/bar-headed goose/Guizhou/SCA551/2023	PZ597978
+common crane	avian	2	common crane	A/common crane/Ningxia/NQ1/2023	PZ598418
+common peafowl	avian	2	common peafowl	A/common peafowl/Inner Mongolia/WQ8/2021	PZ598434
+quail	avian	2	quail	A/quail/Chattogram/CVASU_AIV_PB2_P015/2026	PZ626008
+Carrion Crow	avian	2	Carrion Crow	A/Carrion Crow/Germany-BW/2026AI02262/2026	PZ780500
+stork	avian	2	stork	A/stork/Germany-NI/2026AI03490/2026	PZ782950
+Common Kestrel	avian	2	Common Kestrel	A/Common Kestrel/Germany-BB/2025AI06608/2025	PZ783070
+Eurasian Coot	avian	2	Eurasian Coot	A/Eurasian Coot/Germany-HE/2026AI01389/2026	PZ783102
+kestrel	avian	2	kestrel	A/kestrel/Germany-BW/2026AI00392/2026	PZ783486
+Cooper s Hawk	avian	2	Cooper s Hawk	A/Cooper s Hawk/NY/24-013592-001-original/2024	PZ855307
+Snowy Plover	avian	2	Snowy Plover	A/Snowy Plover/WA/24-035120-001-original/2024	QB027410
+Swallow	avian	2	Swallow	A/Swallow/NC/25-001575-001-original/2025	QB028936
+Anas platyrhynchos var.domesticus	avian	1	Anas platyrhynchos var.domesticus	A/duck/Chiba/TU6-19,20/2021	LC699157
+Buteo japonicus	avian	1	Buteo japonicus	A/common buzzard/Kyoto/2601B013/2022	LC718207
+Haliaeetus albicilla	avian	1	Haliaeetus albicilla	A/white-tailed eagle/Japan/OU-1/2022	LC775576
+brant goose	avian	1	brant goose	A/brant goose/France/21P007579_PB2/2021	OK022590
+Larus delawarensis	avian	1	Larus delawarensis	A/ring-billed gull/Florida/W22-169/2022	OP377379
+Ardea herodias	avian	1	Ardea herodias	A/great blue heron/Florida/W22-160/2022	OP377549
+ibis	avian	1	ibis	A/ibis/Egypt/RLQP-229S/2022	OP491860
+Anas acuta	avian	1	Anas acuta	A/pintail/Egypt/RA19853OP/2021	OP590530
+Falco_rusticolus	avian	1	Falco_rusticolus	A/Falco_rusticolus/EdoMex/CPA-19638-22/2022	OP691321
+Buteo lineatus	avian	1	Buteo lineatus	A/red-shouldered hawk/North Carolina/W22-121/2022	OQ442202
+Phalacrocorax brasilianus	avian	1	Phalacrocorax brasilianus	A/Nannopterum brasilianus/Peru/AISA0446/2022	OQ547420
+Pelecanus	avian	1	Pelecanus	A/Pelecanus/Peru/VFAR-140/2022	OQ565625
+Pekin-duck	avian	1	Pekin-duck	A/Pekin-duck/France/22005/2022	OQ632842
+Phalacrocorax auritus	avian	1	Phalacrocorax auritus	A/double-crested cormorant/North Carolina/W22-1215C/2022	OQ734933
+Larus marinus	avian	1	Larus marinus	A/great black-backed gull/North Carolina/W22-1215A/2022	OQ737776
+American_kestrel	avian	1	American_kestrel	A/American_kestrel/Peru/A273/2022	OQ747867
+Western_barn_owl	avian	1	Western_barn_owl	A/Western_barn_owl/Peru/A293/2022	OQ747868
+American Green-winged Teal	avian	1	American Green-winged Teal	A/American Green-winged Teal/Tennessee/22-005910-002/2022	OQ957785
+American Pelican	avian	1	American Pelican	A/American Pelican/Montana/22-012936-005/2022	OQ957793
+Baikal Teal	avian	1	Baikal Teal	A/Baikal Teal/New York/22-009119-001/2022	OQ959065
+Blue-winged and Cinnamon Teal	avian	1	Blue-winged and Cinnamon Teal	A/Blue-winged and Cinnamon Teal/South Carolina/22-001743-033/2022	OQ960401
+Parrot	avian	1	Parrot	A/Parrot/Michigan/22-010848-002/2022	OQ962713
+Sterna hirundinacea	avian	1	Sterna hirundinacea	A/South American tern/Maule/238507/2023	OR125152
+Anser sp.	avian	1	Anser sp.	A/goose/Araucania/239189-1/2023	OR125332
+Thalasseus elegans	avian	1	Thalasseus elegans	A/Elegant tern/Arica y Parinacota/229476-1/2022	OR125388
+Silver Pheasant; Lophura nycthemera	avian	1	Silver Pheasant; Lophura nycthemera	A/Silver Pheasant/OH/OH22-20552/2022	OR136521
+Swan; Cygnus sp.	avian	1	Swan; Cygnus sp.	A/Swan/OH/OH22-22368-2/2022	OR136529
+Turkey; Meleagris gallopavo domesticus	avian	1	Turkey; Meleagris gallopavo domesticus	A/Turkey/OH/OH22-21172-1/2022	OR136537
+Wood Duck; Aix sponsa	avian	1	Wood Duck; Aix sponsa	A/Wood Duck/OH/OH22-20551/2022	OR136545
+Goose; Anser cygnoides domesticus	avian	1	Goose; Anser cygnoides domesticus	A/goose/OH/OH22-21298/2022	OR136616
+Mareca sibilatrix	avian	1	Mareca sibilatrix	A/Chiloe wigeon/OHiggins/240893-2/2023	OR265641
+American_Wigeon	avian	1	American_Wigeon	A/American_Wigeon/USA/IZ22_0890_swab/2022	OR267215
+Cackling_Goose	avian	1	Cackling_Goose	A/Cackling_Goose/USA/IZ22_0251_swab/2022	OR267223
+Backyard duck	avian	1	Backyard duck	A/Backyard duck/Uruguay/124-M3/2023	OR381663
+Backyard turkey	avian	1	Backyard turkey	A/Backyard turkey/Uruguay/124-M6/2023	OR381671
+Belcher gull	avian	1	Belcher gull	A/Belcher gull/Peru/A267/2022	OR591763
+Black-headed seagull	avian	1	Black-headed seagull	A/Black-headed seagull/France/22-1200R2/2022	OR634764
+red-tailed hawk	avian	1	red-tailed hawk	A/red-tailed hawk/New York/NYCVH-22-8477/2022	OR818565
+peregrine falcon	avian	1	peregrine falcon	A/peregrine falcon/New York/NYCVH-160820/2022	OR819062
+Sula leucogaster	avian	1	Sula leucogaster	A/Sula leucogaster/Sao Francisco do Sul/2122-N/2023	OR857858
+Buteogallus urubitinga	avian	1	Buteogallus urubitinga	A/Buteogallus urubitinga/Itapemirim/1630-SC/2023	OR889488
+Phalacrocorax sp.	avian	1	Phalacrocorax sp.	A/cormorant/Antofagasta/236025-1/2023	OR910158
+Chroicocephalus maculipennis	avian	1	Chroicocephalus maculipennis	A/brown-hooded gull/Los Rios/247094-1/2023	OR910214
+Eurasian wigeon	avian	1	Eurasian wigeon	A/Eurasian wigeon/South Korea/23WS022-22/2023	PP348269
+Cygnus buccinator	avian	1	Cygnus buccinator	A/trumpeter swan/Kansas/W23-928/2023	PP576939
+blackbird	avian	1	blackbird	A/blackbird/Texas/24-008354-001/2024	PP740729
+Harris-hawk	avian	1	Harris-hawk	A/harris-hawk/Utah/24-004080-001/2024	PP752430
+Blackbird	avian	1	Blackbird	A/blackbird/Texas/24-008357-001/2024	PP755644
+neotropic cormorant	avian	1	neotropic cormorant	A/neotropic cormorant/Arizona/245467/2022	PP761751
+black-legged kittiwake	avian	1	black-legged kittiwake	A/black-legged kittiwake/Alaska/23-029675-001-original/2023	PP761806
+great horned owl	avian	1	great horned owl	A/great horned owl/Idaho/23-030180-001-original/2023	PP761886
+eared grebe	avian	1	eared grebe	A/eared grebe/North Dakota/245625/2022	PP761902
+pheasant	avian	1	pheasant	A/pheasant/Oklahoma/23-031171-001-original/2023	PP761979
+Corvus sp.	avian	1	Corvus sp.	A/crow/Kansas/W23-968A/2023	PP770451
+short-billed gull	avian	1	short-billed gull	A/short-billed gull/USA/22-019260-001/2022	PP801644
+snowy owl	avian	1	snowy owl	A/snowy owl/USA/22-022807-001/2022	PP801659
+Thayers gull	avian	1	Thayers gull	A/Thayers gull/USA/22-036618-001/2022	PP802059
+eider	avian	1	eider	A/eider/USA/22-031265-003/2022	PP802411
+northern shoveler	avian	1	northern shoveler	A/northern shoveler/USA/IZ22_0892/2022	PP802867
+red-necked grebe	avian	1	red-necked grebe	A/red-necked grebe/USA/22-018401-001/2022	PP802891
+sandhill crane	avian	1	sandhill crane	A/sandhill crane/USA/22-019268-001/2022	PP802899
+hawk	avian	1	hawk	A/Hawk/New Mexico/24-012607-001-original/2024	PQ011040
+grackle	avian	1	grackle	A/Grackle/New Mexico/24-012607-002-original/2024	PQ011048
+Wild-Bird	avian	1	Wild-Bird	A/Wild-Bird/WY/24-003692-001-original/2024	PQ051327
+Ardea cinerea	avian	1	Ardea cinerea	A/Ardea cinerea/Basel/V0033_PB2/2023	PQ098756
+Pavo cristatus	avian	1	Pavo cristatus	A/Pavo cristatus/Seuzach/V0434_PB2/2022	PQ098773
+crow	avian	1	crow	A/crow/India/240013/2024	PQ109038
+Antarctic Tern	avian	1	Antarctic Tern	A/Antarctic Tern/South Georgia and the South Sandwich Islands/37/2023	PQ113966
+Eurasian Collared Dove	avian	1	Eurasian Collared Dove	A/Eurasian Collared Dove/CO/24-021011-001-original/2024	PQ423231
+Common crane	avian	1	Common crane	A/Common crane/Serbia/12661/2023	PQ685008
+American coot	avian	1	American coot	A/American coot/FL/23-002762-015-original/2022	PQ701334
+American kestrel	avian	1	American kestrel	A/American kestrel/ND/22-015579-001-original/2022	PQ701878
+Black-Crowned night-heron	avian	1	Black-Crowned night-heron	A/Black-Crowned night-heron/CA/22-034328-001-original-repeat/2022	PQ705670
+Black-legged kittiwake	avian	1	Black-legged kittiwake	A/Black-legged kittiwake/AK/23-029675-001-original/2023	PQ705678
+Crested caracara	avian	1	Crested caracara	A/Crested caracara/FL/22-023107-001-original/2022	PQ709670
+Eastern screech Owl	avian	1	Eastern screech Owl	A/Eastern screech Owl/IN/22-019846-002-original/2022	PQ710038
+Great egret	avian	1	Great egret	A/Great egret/WI/22-030040-001-original/2022	PQ710774
+Green heron	avian	1	Green heron	A/Green heron/MN/22-027923-002-original/2022	PQ712190
+Lesser white-fronted Goose	avian	1	Lesser white-fronted Goose	A/Lesser white-fronted Goose/MS/22-041057-001-original/2022	PQ712862
+Northern harrier	avian	1	Northern harrier	A/Northern harrier/ND/22-014031-002-original/2022	PQ714438
+Red-necked grebe	avian	1	Red-necked grebe	A/Red-necked grebe/AK/22-018401-001-original/2022	PQ715558
+Roseate spoonbill	avian	1	Roseate spoonbill	A/Roseate spoonbill/TX/22-035763-001-original/2022	PQ716998
+Sandwich tern	avian	1	Sandwich tern	A/Sandwich tern/FL/22-040230-002-original/2022	PQ717270
+Short-billed Gull	avian	1	Short-billed Gull	A/Short-billed Gull/AK/22-019260-001-original/2022	PQ717318
+Short-eared Owl	avian	1	Short-eared Owl	A/Short-eared Owl/WA/22-039678-004-original/2022	PQ717326
+Snowy egret	avian	1	Snowy egret	A/Snowy egret/ND/22-015805-001-original/2022	PQ718462
+Snowy plover	avian	1	Snowy plover	A/Snowy plover/CA/22-041401-001-original/2022	PQ718526
+Thayer's Gull	avian	1	Thayer's Gull	A/Thayer's Gull/AK/22-036618-001-original/2022	PQ718710
+Western grebe	avian	1	Western grebe	A/Western grebe/CA/23-000276-001-original/2022	PQ719510
+Western screech owl	avian	1	Western screech owl	A/Western screech owl/WA/22-015526-006-original/2022	PQ719518
+Western snowy plover	avian	1	Western snowy plover	A/Western snowy plover/OR/22-038785-001-original-repeat/2022	PQ719526
+White-winged scoter	avian	1	White-winged scoter	A/White-winged scoter/PA/22-041774-001-original/2022	PQ719534
+greater scaup	avian	1	greater scaup	A/greater scaup/MT/23-001334-001-original/2023	PQ720262
+lesser snow goose	avian	1	lesser snow goose	A/lesser snow goose/OR/22-037719-001-original/2022	PQ720294
+Dove	avian	1	Dove	A/Dove/HI/24-033876-005-original/2024	PQ797126
+Great-horned Owl	avian	1	Great-horned Owl	A/Great-horned Owl/OR/24-006223-001-original/2024	PQ827762
+White-winged Dove	avian	1	White-winged Dove	A/White-winged Dove/UT/24-032857-016-original/2024	PQ843571
+Gallus	avian	1	Gallus	A/Gallus/Washington/W222350001-1/2022	PV072621
+South polar skua	avian	1	South polar skua	A/South polar skua/Torgersen Island/o81-b82/2024	PV163161
+Pink-footed Goose	avian	1	Pink-footed Goose	A/Pink-footed Goose/Germany-NI/2024AI05112/2024	PV187804
+Spatula clypeata	avian	1	Spatula clypeata	A/Northern shoveler/Egypt/DA21355OP/2023	PV265797
+American black duck	avian	1	American black duck	A/American black duck/Tennessee/141/2024	PV267413
+blue-winged teal	avian	1	blue-winged teal	A/blue-winged teal/Louisiana/LA24-1082/2024	PV267477
+red-breasted merganser	avian	1	red-breasted merganser	A/red-breasted merganser/Kansas/W24-1031A/2024	PV267565
+red-shouldered hawk	avian	1	red-shouldered hawk	A/red-shouldered hawk/Louisiana/W24-1057/2024	PV267573
+American white pelican	avian	1	American white pelican	A/American white pelican/MB/FAV-0846-1-2022/2022	PV303453
+Broad-Winged Hawk	avian	1	Broad-Winged Hawk	A/Broad-Winged Hawk/SK/FAV-0802-40-2022/2022	PV304717
+Common Barn Owl	avian	1	Common Barn Owl	A/Common Barn Owl/BC/FAV-0550-1-2022/2022	PV307941
+Dovekie	avian	1	Dovekie	A/Dovekie/NL/FAV-0880-7-2022/2022	PV311213
+Fancy Chicken	avian	1	Fancy Chicken	A/Fancy chicken/NL/FAV-0033-1-2021/2021	PV312101
+Ferruginous Hawk	avian	1	Ferruginous Hawk	A/Ferruginous Hawk/AB/FAV-0355-2024/2024	PV312133
+Great Grey Owl	avian	1	Great Grey Owl	A/Great Grey Owl/AB/FAV-0505-29-2022/2022	PV312557
+Greater White-Fronted Goose	avian	1	Greater White-Fronted Goose	A/Greater White-Fronted Goose/AB/FAV-0321-1-2023/2023	PV313509
+Greater Yellowlegs	avian	1	Greater Yellowlegs	A/Greater Yellowlegs/AB/FAV-0505-28-2022/2022	PV313517
+Gyrfalcon	avian	1	Gyrfalcon	A/Gyrfalcon/ON/FAV-0134-1-2023/2023	PV313645
+Iceland Gull	avian	1	Iceland Gull	A/Iceland Gull/NL/FAV-0390-1-2022/2022	PV314173
+Long-Eared Owl	avian	1	Long-Eared Owl	A/Long-Eared Owl/BC/OTH-0021-5-2023/2022	PV314301
+Red-Breasted Merganser	avian	1	Red-Breasted Merganser	A/Red-Breasted Merganser/QC/FAV-0792-1-2022/2022	PV316221
+Red-Necked Grebe	avian	1	Red-Necked Grebe	A/Red-Necked Grebe/SK/FAV-0912-13-2022/2022	PV316229
+Red-Shouldered Hawk	avian	1	Red-Shouldered Hawk	A/Red-Shouldered Hawk/ON/FAV-0473-1-2022/2022	PV316237
+Ring-Necked Duck	avian	1	Ring-Necked Duck	A/Ring-Necked Duck/ON/FAV-0715-4-2022/2022	PV317101
+Ruffed Grouse	avian	1	Ruffed Grouse	A/Ruffed Grouse/NL/FAV-0114-1-2022/2022	PV317429
+Taiwanese chicken	avian	1	Taiwanese chicken	A/Taiwanese chicken/BC/FAV-1496-2022/2022	PV319485
+White-Winged Scoter	avian	1	White-Winged Scoter	A/White-Winged Scoter/NS/FAV-0129-1-2024/2024	PV321909
+Black-crowned Night-Heron	avian	1	Black-crowned Night-Heron	A/Black-crowned Night-Heron/CA/25-003270-001-original/2025	PV336337
+Burrowing Owl	avian	1	Burrowing Owl	A/Burrowing Owl/CA/25-003486-001-original/2025	PV336369
+Seagull	avian	1	Seagull	A/Seagull/Qinhuangdao/qhd6/2024	PV366816
+Ostrich	avian	1	Ostrich	A/Ostrich/Sonora/CPA-00009-25/2025	PV483720
+Curlew	avian	1	Curlew	A/Curlew/Chile/282904-7/2023	PV570940
+peafowl	avian	1	peafowl	A/peafowl/Ohio/OH24-4484-1/2024	PV643585
+turkey; Meleagris gallopavo	avian	1	turkey; Meleagris gallopavo	A/turkey/Ohio/OH23-29523/2023	PV643593
+Mareca penelope	avian	1	Mareca penelope	A/Mareca penelope/jiujiang/H5N1/2024	PV701063
+raptor	avian	1	raptor	A/raptor/Germany-NI/2025AI02206/2025	PV738463
+Layer chicken	avian	1	Layer chicken	A/Layer chicken/Gazipur/A_chicken_Gazipur_Bangladesh_MGH- RF01_2025(H5N1) Seg 1/2025	PV961349
+OSTRICH	avian	1	OSTRICH	A/OSTRICH/Egypt/QC15-H5N1/2025	PX496115
+Tawny Owl	avian	1	Tawny Owl	A/Tawny Owl/Germany-BY/2025AI04275/2025	PX662385
+buzzard	avian	1	buzzard	A/buzzard/Germany-NI/2025AI06173/2025	PX662481
+Dalmatian Pelican	avian	1	Dalmatian Pelican	A/Dalmatian Pelican/Bern/1/2022	PX700809
+Comon Goldeneye	avian	1	Comon Goldeneye	A/Comon Goldeneye/WY/25-006414-001-original/2025	PX807652
+Falcon	avian	1	Falcon	A/Falcon/NJ/25-014541-001-original/2025	PX807716
+Whooping Crane	avian	1	Whooping Crane	A/Whooping Crane/WI/25-025495-001-original/2025	PX809052
+Swanson's Hawk	avian	1	Swanson's Hawk	A/Swanson's Hawk/SD/25-007834-001-original/2025	PX809933
+Rock Goose	avian	1	Rock Goose	A/Rock Goose/ND/25-012362-001-original/2025	PX816998
+Hermit Thrush	avian	1	Hermit Thrush	A/Hermit Thrush/MN/25G01919-002-original/2025	PX818937
+Snowy Egret	avian	1	Snowy Egret	A/Snowy Egret/NY/25-004423-001-original/2025	PX820466
+Nene Goose	avian	1	Nene Goose	A/Nene Goose/WI/25G03723-002-original/2025	PX822578
+Loon, Common	avian	1	Loon, Common	A/Loon, Common/ME/25-019392-001-original/2025	PX824619
+South Polar Skua	avian	1	South Polar Skua	A/South Polar Skua/Antarctica/029560:SG14/2024	PX846043
+Black-headed gull	avian	1	Black-headed gull	A/Black-headed gull/France/LAB23-126/2023	PX933536
+American White pelican	avian	1	American White pelican	A/American White pelican/California/D2216041/2022	PX936653
+Brown pelican	avian	1	Brown pelican	A/Brown pelican/California/D2500891/2025	PX936765
+California gull	avian	1	California gull	A/California gull/California/D2400705/2024	PX936773
+Guinea fowl	avian	1	Guinea fowl	A/Guinea fowl/California/D2400890/2024	PX936877
+Podiceps cristatus	avian	1	Podiceps cristatus	A/Podiceps cristatus/Murten/V0542/2025	PX980757
+Glaucose-Winged Gull	avian	1	Glaucose-Winged Gull	A/Glaucose-Winged Gull/CA/25G06770-001-original/2025	PZ030547
+Finch	avian	1	Finch	A/Finch/KS/26G00015-001-original/2025	PZ031330
+Laughing Gull	avian	1	Laughing Gull	A/Laughing Gull/FL/26G00575-003-original/2025	PZ093364
+Pie-Billed Grebe	avian	1	Pie-Billed Grebe	A/Pie-Billed Grebe/PA/26G00630-003-original/2026	PZ093428
+Lesser Black-Backed Gull	avian	1	Lesser Black-Backed Gull	A/Lesser Black-Backed Gull/MA/26G01630-008-original/2025	PZ175552
+blue jay	avian	1	blue jay	A/blue jay/Massachusetts/25NE00188/2025	PZ239786
+surf scoter	avian	1	surf scoter	A/surf scoter/Massachusetts/24HP00239/2024	PZ239793
+Eastern Screech Owl	avian	1	Eastern Screech Owl	A/Eastern Screech Owl/PA/26G02511-001-original/2026	PZ265337
+Bluebird	avian	1	Bluebird	A/Bluebird/MS/26G02084-001-original/2026	PZ266121
+Whooper Swan	avian	1	Whooper Swan	A/Whooper Swan/NY/26G03468-001-original/2026	PZ299749
+African Goose	avian	1	African Goose	A/African Goose/NY/26G04064-001-original/2026	PZ328229
+Bubo bubo	avian	1	Bubo bubo	A/Bubo bubo/Magadino/26-V0111/2026	PZ501810
+spot-billed duck	avian	1	spot-billed duck	A/spot-billed duck/Heilongjiang/XK424/2022	PZ597591
+great cormorant	avian	1	great cormorant	A/great cormorant/Anhui/A1141/2021	PZ598610
+swan goose	avian	1	swan goose	A/swan goose/Hubei/HBQ1-1/2021	PZ598842
+Sharp-Shinned Hawk	avian	1	Sharp-Shinned Hawk	A/Sharp-Shinned Hawk/CO/26G07641-005-original/2026	PZ674218
+Domestic Bird	avian	1	Domestic Bird	A/Domestic Bird/KS/25G05801-002-original/2025	PZ730623
+African Gray Parrot	avian	1	African Gray Parrot	A/African Gray Parrot/FL/25G06275-001-original/2025	PZ730827
+Black-throated Loon	avian	1	Black-throated Loon	A/Black-throated Loon/Germany-BY/2026AI00817/2026	PZ780492
+Red Kite	avian	1	Red Kite	A/Red Kite/Germany-SH/2026AI03011/2026	PZ782942
+Common Shelduck	avian	1	Common Shelduck	A/Common Shelduck/Germany-SH/2026AI02315/2026	PZ783086
+Eurasian Oystercatcher	avian	1	Eurasian Oystercatcher	A/Eurasian Oystercatcher/Germany-SH/2026AI02316/2026	PZ783142
+Western Barn Owl	avian	1	Western Barn Owl	A/Western Barn Owl/Germany-NI/2026AI03000/2026	PZ783350
+pigeon	avian	1	pigeon	A/pigeon/Germany-ST/2025AI04577/2025	PZ783502
+shorebird	avian	1	shorebird	A/shorebird/Germany-NI/2025AI07414/2025	PZ783510
+Black-Bellied Plover	avian	1	Black-Bellied Plover	A/Black-Bellied Plover/CA/24-004079-002-original/2024	PZ827956
+Red-necked Grebe	avian	1	Red-necked Grebe	A/Red-necked Grebe/CA/24-004076-002-original/2024	PZ829172
+Duck Hybrid, Mallard X American Black	avian	1	Duck Hybrid, Mallard X American Black	A/Duck Hybrid, Mallard X American Black/ME/24-004330-036-original/2024	PZ855331
+Crested Caracara	avian	1	Crested Caracara	A/Crested Caracara/FL/25-000690-001-original/2025	PZ963961
+Harris Hawk	avian	1	Harris Hawk	A/Harris Hawk/AZ/24-038176-001-original/2024	PZ965073
+wild duck hybrid	avian	1	wild duck hybrid	A/wild duck hybrid/KS/24-036679-007-original/2024	QB027714
+Lesser Yellowleg	avian	1	Lesser Yellowleg	A/Lesser Yellowleg/UT/25G05618-003-original/2025	QB027952
+Pet Food	exclude	21	Pet Food	A/Pet Food/CO/25-003807-001-original/2025	PV337377
+Raw Pet Food	exclude	12	Raw Pet Food	A/Raw Pet Food/OR/25-004757-001-original/2025	PV456085
+ENV	exclude	11	ENV	A/poultry/Benin/21-A-08-035-O/2021	ON870419
+U	exclude	11	U	A/environment/Bangladesh/65044/2024	PV667925
+Cattle Milk Product	exclude	9	Cattle Milk Product	A/cattle Milk Product/CA/24-035262-001-original/2024	PQ892763
+House fly	exclude	3	House fly	A/House fly/Kings County/Dairy_B/2024	PV925359
+strain:environment	exclude	2		A/environment/Wright County/Wright-A/2022	OQ843962
+Waterfowl	exclude	2	Waterfowl	A/Waterfowl/KS/22-038592-004-original/2022	PQ719454
+short-tailed shearwaters	exclude	1	short-tailed shearwaters	A/short-tailed shearwaters/Minnesota/23-025002-003/2023	PP896888
+environment	exclude	1	environment	A/environment/India/240005/2024	PQ109022
+Manx shearwater	exclude	1	Manx shearwater	A/Manx shearwater/AK/23-025002-003-original/2023	PQ714166
+Great Shearwater	exclude	1	Great Shearwater	A/Great Shearwater/NL/FAV-0905-1-2022/2022	PV313501
+strain:Unknown	exclude	1		A/Unknown/Durango/CPA-00563-25/2025	PV483728
+water pipit	exclude	1	water pipit	A/water pipit/Sichuan/SC121/2022	PZ599242
+cattle	mammal	4461	cattle	A/cattle/Kansas/24-008767-001/2024	PP752607
+cat	mammal	147	cat	A/Cat/New Mexico/24-010948-001-original/2024	PQ010976
+Striped Skunk	mammal	76	Striped Skunk	A/Striped Skunk/ID/W233560055-1-3/2023	PV072711
+dairy cow	mammal	73	dairy cow	A/bovine/New Mexico/A240920343-105/2024	PQ068388
+red fox	mammal	63	red fox	A/red fox/USA/22-016300-001/2022	PP801597
+bovine	mammal	48	bovine	A/Bovine/texas/24-029328-01/2024	PP599462
+Homo sapiens	mammal	45	Homo sapiens	A/India/SARI-4571/2021	OL311384
+Northern Elephant Seal	mammal	45	Northern Elephant Seal	A/Northern Elephant Seal/CA/26G03029-001-original/2026	PZ266321
+Skunk	mammal	43	Skunk	A/skunk/Washington/24-005959-004/2024	PP752379
+Bos taurus	mammal	43	Bos taurus	A/Bos taurus/Kansas/SM-3/2024	PV132397
+fox	mammal	42	fox	A/Fox/CO/24-038266-001-original/2024	PV159580
+goat	mammal	29	goat	A/goat/Minnesota/24-007234-034/2024	PP752510
+Raccoon	mammal	17	Raccoon	A/raccoon/New Mexico/24-009496-002/2024	PP752948
+Harbor Seal	mammal	17	Harbor Seal	A/Harbor Seal/QC/FAV-0836-1-2022/2022	PV313653
+Mountain Lion	mammal	16	Mountain Lion	A/Mountain Lion/MT/24-010315-001-original/2024	PQ827786
+Bobcat	mammal	16	Bobcat	A/Bobcat/WA/24-037410-006-original/2024	PV070690
+Bovidae	mammal	16	Bovidae	A/dairy cattle/New Mexico/A240920343-93/2024	PZ617725
+Antarctic Fur Seal	mammal	13	Antarctic Fur Seal	A/Antarctic Fur Seal/South Georgia and the South Sandwich Islands/125/2023	PQ114054
+pinniped	mammal	12	pinniped	A/pinniped/Uruguay/P5_6923/2023	OR912247
+Domestic cat	mammal	11	Domestic cat	A/domestic cat/Texas/24-008764-001/2024	PP752615
+swine	mammal	11	swine	A/swine/Kansas/ExpPig50-BAL3DPI/2024	PV601924
+Domestic Cat	mammal	11	Domestic Cat	A/Domestic Cat/OR/25-019613-001-original/2025	PX212770
+Otaria byronia	mammal	10	Otaria byronia	A/South American sea lion/Arica y Parinacota/240270-1/2023	OR125260
+Tiger	mammal	10	Tiger	A/Tiger/CA/24-036321-001-original/2024	PQ827922
+Vulpes vulpes	mammal	8	Vulpes vulpes	A/Vulpes vulpes/USA/067387/2022	OP269949
+Southern elephant seal	mammal	8	Southern elephant seal	A/southern elephant seal/Argentina/CH-PD035/2023	PP488310
+Serval	mammal	8	Serval	A/Serval/WA/24-037410-002-original/2024	PV070890
+mink	mammal	8	mink	A/mink/Hong Kong/RG-DelNS1-p1/2024	PV124979
+Bottlenose Dolphin	mammal	8	Bottlenose Dolphin	A/Bottlenose Dolphin/FL/24-038155-001-original/2023	PV159364
+Experimental infection in non-human primates (NHP) with A/bovine/Ohio/B24OSU-432/2024	mammal	7	Experimental infection in non-human primates (NHP) with A/bovine/Ohio/B24OSU-432/2024	A/Montana/60_LLL_PB2/2024	PQ790107
+Sea Otter	mammal	7	Sea Otter	A/Sea Otter/CA/26G03537-004-original/2026	PZ300421
+Phoca vitulina	mammal	6	Phoca vitulina	A/harbor seal/Maine/MME-22-147Pv-L/2022	OQ730462
+feline	mammal	6	feline	A/feline/South Korea/SNU1/2023	OR388763
+South American sea lion	mammal	6	South American sea lion	A/South American sea lion/Argentina/RN-PB004/2023	OR987081
+southern_elephant_seal	mammal	6	southern_elephant_seal	A/southern_elephant_seal/Crozet/24P021404/2024	PV295144
+Felis catus	mammal	5	Felis catus	A/feline/New Mexico/F001/2024	PV026112
+Striped skunk	mammal	5	Striped skunk	A/Striped skunk/BC/FAV-0552-1-2022/2022	PV319373
+Phocoena spinipinnis	mammal	4	Phocoena spinipinnis	A/Burmeister's porpoise/Antofagasta/246506-2/2023	OR961081
+Harbor seal	mammal	4	Harbor seal	A/Harbor seal/Washington/W232430067-1-3/2023	PQ118046
+Cougar	mammal	4	Cougar	A/Cougar/CA/25-014656-001-original/2025	PX815694
+Catalina Island Fox	mammal	4	Catalina Island Fox	A/Catalina Island Fox/CA/26G01803-001-original/2025	PZ175992
+Nasua nasua	mammal	3	Nasua nasua	A/Nasua nasua/Uruguay/145M1/2023	PP426564
+Alpaca	mammal	3	Alpaca	A/Alpaca/ID/24-014328-008/2024	PQ051119
+Southern Elephant Seal	mammal	3	Southern Elephant Seal	A/Southern Elephant Seal/South Georgia and the South Sandwich Islands/21/2023	PQ113950
+Fisher	mammal	3	Fisher	A/Fisher/WI/22-019946-001-original/2022	PQ710070
+Mink	mammal	3	Mink	A/Mink/Spain/22VIR12774-14_3869-3- recombinant/2024	PQ898020
+dairy cattle	mammal	3	dairy cattle	A/dairy cattle/Texas/24-008749-003-recombinant/2024	PQ898029
+Feral cat	mammal	3	Feral cat	A/Feral cat/ON/FAV-0159-1-2023/2023	PV312109
+Dolphin	mammal	3	Dolphin	A/Dolphin/FL/25-002347-001-original/2024	PX812472
+Mephitis mephitis	mammal	2	Mephitis mephitis	A/striped skunk/Kansas/W23-094/2023	OQ733091
+south american sea lion	mammal	2	south american sea lion	A/south american sea lion/Peru/AQP-SER00R/2023	OQ925708
+pig	mammal	2	pig	A/pig/OR/24-031264-004-combined/2024	PQ687460
+Lynx	mammal	2	Lynx	A/Lynx/WA/24-037410-001-original/2024	PV070762
+Lion	mammal	2	Lion	A/Lion/CO/24-038267-001-original/2024	PV159636
+Black Bear	mammal	2	Black Bear	A/Black Bear/QC/FAV-0902-1-2022/2022	PV304165
+Mountain lion	mammal	2	Mountain lion	A/Mountain lion/California/D2303291/2023	PX936885
+Tursiops truncatus	mammal	1	Tursiops truncatus	A/bottlenose dolphin/Florida/UFTt2203/2022	OP698125
+Panthera leo	mammal	1	Panthera leo	A/Panthera leo/Peru/AIS0554/2023	OQ547428
+common dolphin	mammal	1	common dolphin	A/dolphin/Peru/PIU-SER002/2022	OQ550439
+South American Sea Lion	mammal	1	South American Sea Lion	A/South American Sea Lion/Peru/LIM-SER036/2023	OQ550471
+Tibetan black bear	mammal	1	Tibetan black bear	A/Tibetan black bear/France/23-0007R2/2022	OR634756
+South American fur seal	mammal	1	South American fur seal	A/South American fur seal/Argentina/RN-PB019/2023	OR987113
+Dairy cattle	mammal	1	Dairy cattle	A/Dairy cattle/Kansas/5/2024	PP732373
+Mountain-Lion	mammal	1	Mountain-Lion	A/mountain_lion/Montana/24-010315-001/2024	PP756108
+black bear	mammal	1	black bear	A/black bear/USA/22-036396-001/2022	PP802211
+polar bear	mammal	1	polar bear	A/polar bear/Alaska/23-038123/2023	PP820319
+alpaca	mammal	1	alpaca	A/Alpaca/Idaho/24-014328-007-original/2024	PQ011088
+Lontra felina	mammal	1	Lontra felina	A/Chungungo/CHL/241436/2023	PQ300719
+Leopard	mammal	1	Leopard	A/Leopard/India/01TI01/2024	PQ895606
+Geoffroy's Cat	mammal	1	Geoffroy's Cat	A/Geoffroy's Cat/WA/24-037410-004-original/2024	PV070738
+Savannah Cat	mammal	1	Savannah Cat	A/Savannah Cat/WA/24-037410-011-original/2024	PV070882
+bobcat	mammal	1	bobcat	A/bobcat/Kansas/W24-1062/2024	PV267485
+Atlantic White-Sided Dolphin	mammal	1	Atlantic White-Sided Dolphin	A/Atlantic White-Sided Dolphin/QC/FAV-1089-1-2022/2022	PV303525
+Gray Seal	mammal	1	Gray Seal	A/Gray Seal/QC/FAV-0869-5-2022/2022	PV312229
+dog	mammal	1	dog	A/dog/ON/FAV-0119-2-2023/2023	PV324685
+fur seal	mammal	1	fur seal	A/fur seal/Sakhalin/399-1V/2023	PV998166
+sea lion	mammal	1	sea lion	A/sea lion/Rio Grande do Sul/778/2023	PX480074
+Bear	mammal	1	Bear	A/Bear/TN/25G05541-001-original-repeat2/2025	PZ031178
+Leptailurus serval	mammal	1	Leptailurus serval	A/Leptailurus serval/Bangladesh/CDIL_AIV_H5N1_1388/2025	PZ602615
+House Mouse	mammal_lab	4	House Mouse	A/House Mouse/NM/24-014780-002-original/2024	PQ051143
+Rattus norvegicus	mammal_lab	1	Rattus norvegicus	A/Norway rat/Illinois/0790319/2025	PX687017
+Norway Rat	mammal_lab	1	Norway Rat	A/Norway Rat/CA/25-003837-001-original/2025	QB028384
+Lophodytes cucullatus	unresolved_host	2	Lophodytes cucullatus	A/hooded merganser/Florida/W22-154/2022	OP377637
+Nycticorax nycticorax	unresolved_host	2	Nycticorax nycticorax	A/Black-crowned night-heron/Antofagasta/228705-2/2022	OR125193
+Numenius phaeopus	unresolved_host	2	Numenius phaeopus	A/Whimbrel/Valparaiso/239946/2023	OR268563
+Aves	unresolved_host	2	Aves	A/Aves/Guanajuato/CPA-18539-23/2023	OR801074
+Cephalorhynchus eutropia	unresolved_host	2	Cephalorhynchus eutropia	A/Chilean dolphin/Nuble/248244-1/2023	OR960979
+Arenaria interpres	unresolved_host	2	Arenaria interpres	A/ruddy turnstone/Virginia/W24-190N/2024	PP834285
+Ermine	unresolved_host	2	Ermine	A/Ermine/AK/24-038843-001-original/2024	PV159572
+Ardeola bacchus	unresolved_host	2	Ardeola bacchus	A/Ardeola bacchus/ganzhou/H5N1/2024	PV707010
+Dendrocygna viduata	unresolved_host	2	Dendrocygna viduata	A/Dendrocygna viduata/BrasiliaBR/1480-N1-2025/2025	PV849977
+Irere	unresolved_host	2	Irere	A/Irere/Ibirapuera Central Park/CUT37/2025	PX062323
+Northern Herrier	unresolved_host	2	Northern Herrier	A/Northern Herrier/WA/25G03983-001-original/2025	PX858398
+Anatidae	unresolved_host	2	Anatidae	A/Anatidae/Anhui/AQ1-1/2023	PZ597640
+Haematopus ater	unresolved_host	1	Haematopus ater	A/Blackish oystercatcher/OHiggins/240628/2023	OR125144
+Fregata magnificens	unresolved_host	1	Fregata magnificens	A/Fregata magnificens/RJ/1532-N/2023	OR420089
+Peruvian booby	unresolved_host	1	Peruvian booby	A/Peruvian booby/Peru/A296/2022	OR591762
+Megascops choliba	unresolved_host	1	Megascops choliba	A/Megascops choliba/Serra/1409-N/2023	OR853701
+Milvago chimango	unresolved_host	1	Milvago chimango	A/Chimango caracara/Coquimbo/242326-1/2023	OR910242
+Pygoscelis sp.	unresolved_host	1	Pygoscelis sp.	A/penguin/Antofagasta/234905-1/2023	OR910513
+Pluvialis dominica	unresolved_host	1	Pluvialis dominica	A/Pluvialis dominica/BertiogaBR/2252-N/2023	PP768657
+Tachybaptus ruficollis	unresolved_host	1	Tachybaptus ruficollis	A/Tachybaptus ruficollis/Thurgau/V0225_PB2/2023	PQ098637
+South Georgia Shag	unresolved_host	1	South Georgia Shag	A/South Georgia Shag/South Georgia and the South Sandwich Islands/85/2023	PQ114014
+Theristicus caudatus	unresolved_host	1	Theristicus caudatus	A/buff-necked ibis/Bio bio/247636-1/2023	PQ325297
+Black turnstone	unresolved_host	1	Black turnstone	A/Black turnstone/CA/23-004359-001-original/2023	PQ705646
+Red-necked phalarope	unresolved_host	1	Red-necked phalarope	A/Red-necked phalarope/OR/23-000773-001-original/2023	PQ715566
+Washington	unresolved_host	1	Washington	A/Washington/OR/24-037325-011/2024	PQ835032
+Anatinae	unresolved_host	1	Anatinae	A/Anatinae/NS/FAV-0080-27-2024/2024	PV303461
+Laridae	unresolved_host	1	Laridae	A/Laridae/NB/FAV-1619-1-2022/2022	PV314181
+American Woodcock	unresolved_host	1	American Woodcock	A/American Woodcock/AR/25-003125-001-original/2025	PV336210
+Tadorna ferruginea	unresolved_host	1	Tadorna ferruginea	A/Tadorna ferruginea/jiujiang/H5N1/2024	PV701152
+Guinea	unresolved_host	1	Guinea	A/Guinea/NY/25-013275-005-original/2025	PV792050
+Furnarius rufus	unresolved_host	1	Furnarius rufus	A/Furnarius rufus/MontenegroBR/1355-N-2025/2025	PV796400
+Coturnix sp.	unresolved_host	1	Coturnix sp.	A/quail/Bangladesh/69438/2025	PX531549
+Eurasian Woodcock	unresolved_host	1	Eurasian Woodcock	A/Eurasian Woodcock/Germany-ST/2025AI04948/2025	PX662313
+Weasel	unresolved_host	1	Weasel	A/Weasel/WA/25-002912-001-original-repeat2/2025	PX813832
+Virginia Opossum	unresolved_host	1	Virginia Opossum	A/Virginia Opossum/GA/25G03591-001-original/2025	PX820097
+Courser	unresolved_host	1	Courser	A/Courser/Germany-HH/2025AI07281/2025	PZ783094
+Ruddy Turnstone	unresolved_host	1	Ruddy Turnstone	A/Ruddy Turnstone/VA/24-009658-005-original/2024	PZ856075
+Dark-eyed Junco	unresolved_host	1	Dark-eyed Junco	A/Dark-eyed Junco/NJ/25-007152-004-original/2025	PZ960783

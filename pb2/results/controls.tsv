@@ -1,0 +1,13 @@
+marker	tier	status	m_count	av_count	freq_m	freq_a	OR	q	evidence	url
+E627K	1_validated	recovered	242	149	0.048197570205138415	0.008540150169083511	5.870789789587008	1.6344453077595304e-62	technical control; classic mammalian host-range determinant (Subbarao 1993; Gabriel 2015 screen)	https://www.nature.com/articles/ncomms8491
+D701N	1_validated	recovered	121	54	0.024098785102569208	0.0030950879807416748	7.912730305557662	3.7185401268632014e-38	experimentally validated mammalian polymerase marker	https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1000652
+Q591K	1_validated	recovered	49	33	0.009759012148974308	0.0018914426548976902	5.174836226109273	1.1257390440821141e-11	experimentally validated mammalian adaptation (ANP32 usage)	https://www.nature.com/articles/nature08874
+T271A	1_validated	recovered	25	38	0.004979087831109341	0.0021780248753367343	2.3078089727744486	0.028794383677029484	enhanced polymerase activity in mammalian cells	https://jvi.asm.org/content/84/10/5360
+Q591R	2_literature	recovered	17	4	0.0033857797251543517	0.00022926577635123518	13.554967196190095	5.968787864925574e-07	literature-reported mammalian-associated variant	
+E627V	2_literature	absent_in_data	0	0					literature-reported mammalian-associated variant	
+K526R	2_literature	testable_not_significant	8	158	0.001593308105954989	0.00905599816587379	0.18494009392306388	1.0	1997 HK H5N1 human isolates; enhances 627K	
+D740N	2_literature	testable_not_significant	34	104	0.006771559450308703	0.005960910185132114	1.1480389970140663	1.0	literature-reported mammalian-associated variant	
+A199S	2_literature	untestable_rare	1	9	0.00019916351324437363	0.0005158479967902792	0.548440866133065	1.0	literature-reported mammalian-associated variant	
+D253N	2_literature	untestable_rare	2	5	0.00039832702648874725	0.000286582220439044	1.5795216836157169	1.0	literature-reported mammalian-associated variant	
+M64T	2_literature	untestable_rare	1	13	0.00019916351324437363	0.0007451137731415143	0.3858513428277396	1.0	literature-reported mammalian-associated variant	
+E158G	2_literature	untestable_rare	1	3	0.00019916351324437363	0.00017194933226342637	1.4891373938281616	1.0	literature-reported mammalian-associated variant	

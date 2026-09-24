@@ -1,0 +1,13 @@
+protein	pos	alt	jk_keep	jk_total	jk_frac	robust
+PB2	58	A	6	6	1.000	True
+PB2	109	I	6	6	1.000	True
+PB2	139	I	6	6	1.000	True
+PB2	362	G	6	6	1.000	True
+PB2	441	N	6	6	1.000	True
+PB2	495	I	6	6	1.000	True
+PB2	631	L	6	6	1.000	True
+PB2	649	I	6	6	1.000	True
+PB2	670	R	6	6	1.000	True
+PB2	676	A	6	6	1.000	True
+PB2	758	T	5	6	0.833	True
+PB2	249	G	6	6	1.000	True
